@@ -8,7 +8,7 @@ which you can find on [BDOLytics](https://bdolytics.com/en/EU/map).
 Instead of using the centroid of the detected area, a **random point** within the detected area was selected as the waypoint. Only the **first four detected points** (sorted by descending size) were included.
 
 The names of the bookmarks were taken from the original translation of the leaked datasheet from way back when.
-Newer regions are marked as "Unknwon_Zone_XXX" (I am very creative :) ) and is basically any region added after 2019.
+Newer regions are marked as "Unknown_Zone_XXX" (I am very creative :) ) and is basically any region added after 2019.
 
 As another side-note:
 `All Y positions are set to 0!`
