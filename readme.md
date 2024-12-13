@@ -35,4 +35,6 @@ I am not responsible for any **Terms of Service violations** or **account penalt
 
 ---
 
+Big thanks to Karpfen who gave me the idea in the first place :D
+
 Enjoy enhanced fishing in Black Desert Online! 🎣
