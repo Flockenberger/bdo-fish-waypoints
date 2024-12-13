@@ -17,7 +17,7 @@ If you encounter specific problems with it lmk.`
 ## Usage
 ### Waypoints
 You have two options for waypoints:
-- Either use `/Bookmark/worldMapBookMark.data` which contains all 452 (4 waypoints per region)
+- Either use `/Bookmark/worldMapBookMark.data` (its right at the bottom) which contains all 452 (4 waypoints per region)
 waypoints in one file 
 
 **or**
