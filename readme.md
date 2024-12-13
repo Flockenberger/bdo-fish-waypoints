@@ -14,9 +14,23 @@ As another side-note:
 `All Y positions are set to 0!`
 If you encounter specific problems with it lmk.`
 
-
 ## Usage
+### Waypoints
+You have two options for waypoints:
+- Either use `/Bookmark/worldMapBookMark.data` which contains all 452 (4 waypoints per region)
+waypoints in one file 
+
+**or**
+
+- You can navigate to a sub-folder in `/Bookmark` and choose just one specific spot. 
+
+The choice is yours.
+
+#### How-To
+
 1. Navigate to the `/Bookmark` directory where you will find the fishing waypoint files.
+    - Sub-folders contain 4 waypoints **just** for the one spot
+    - The `/Bookmark/worldMapBookMark.data` file contains **all** waypoints.
 2. Optionally, use the `Preview.png` file to view:
     - **Green Points**: Exact in-game waypoints.
     - **Red Areas**: Entire areas where the fishing table is consistent.
@@ -26,9 +40,14 @@ If you encounter specific problems with it lmk.`
 5. Start BDO and access the waypoints through the Find NPCs Menu in the Favorites tab.
 
 Once you have done that you should be able to see the waypoints in your favorites like below
+
 ![where_to_find](./where_to_find.png)
 
 
+## Future Stuff
+As you may have realised, this repo only contains the worldMapBookMark.data files, and no code for generation or similar. There are a few reasons... first the code is still a hot mess since I threw it together in a day, second I don't want to publish files, structures etc. which PA might have something against (for obvious reasons).
+
+Since there are a quite a few regions which are just named Unknown_Zone or similar, if the community decides on proper names for those, I will update the regions and its names accordingly.
 
 ## Disclaimer
 I am not responsible for any **Terms of Service violations** or **account penalties** that may result from the use of these files. Use them at your own discretion.
