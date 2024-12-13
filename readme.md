@@ -17,13 +17,13 @@ If you encounter specific problems with it lmk.`
 
 ## Usage
 1. Navigate to the `/Bookmark` directory where you will find the fishing waypoint files.
-2. Close Black Desert Online (BDO).
-3. Copy the `worldMapBookMark.data` file into your: `\Documents\Black Desert\UserCache\USERNAME`
-    - **Make sure to make a copy of your old `worldMapBookMark.data` if you still need it later!**
-4. Start Black Desert Online (BDO) for the changes to take effect.
-5. Optionally, use the `Preview.png` file to view:
+2. Optionally, use the `Preview.png` file to view:
     - **Green Points**: Exact in-game waypoints.
     - **Red Areas**: Entire areas where the fishing table is consistent.
+3. Close the game. Otherwise it will overwrite the bookmark file when closing.
+4. Copy the `worldMapBookMark.data` file into your: `\Documents\Black Desert\UserCache\USERNAME`
+    - **Make sure to make a copy of your old `worldMapBookMark.data` if you still need it later!**
+5. Start BDO and access the waypoints through the Find NPCs Menu in the Favorites tab.
 
 Once you have done that you should be able to see the waypoints in your favorites like below
 ![where_to_find](./where_to_find.png)
