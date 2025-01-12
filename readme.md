@@ -14,34 +14,10 @@ As another side-note:
 `All Y positions are set to 0!`
 If you encounter specific problems with it lmk.`
 
-## Usage
-### Waypoints
-You have two options for waypoints:
-- Either use `/Bookmark/worldMapBookMark.data` (its right at the bottom) which contains all 452 (4 waypoints per region)
-waypoints in one file 
+## Installation Guide
+Press on the image to be redirected to YouTube.
 
-**or**
-
-- You can navigate to a sub-folder in `/Bookmark` and choose just one specific spot. 
-
-The choice is yours.
-
-#### How-To
-
-1. Navigate to the `/Bookmark` directory where you will find the fishing waypoint files.
-    - Sub-folders contain 4 waypoints **just** for the one spot
-    - The `/Bookmark/worldMapBookMark.data` file contains **all** waypoints.
-2. Optionally, use the `Preview.png` file to view:
-    - **Green Points**: Exact in-game waypoints.
-    - **Red Areas**: Entire areas where the fishing table is consistent.
-3. Close the game. Otherwise it will overwrite the bookmark file when closing.
-4. Copy the `worldMapBookMark.data` file into your: `\Documents\Black Desert\UserCache\USERNAME`
-    - **Make sure to make a copy of your old `worldMapBookMark.data` if you still need it later!**
-5. Start BDO and access the waypoints through the Find NPCs Menu in the Favorites tab.
-
-Once you have done that you should be able to see the waypoints in your favorites like below
-
-![where_to_find](./where_to_find.png)
+[![Installation Guide](https://img.youtube.com/vi/9IEUVFMCixw/0.jpg)](https://www.youtube.com/watch?v=9IEUVFMCixw)
 
 
 ## Future Stuff
