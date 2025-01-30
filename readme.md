@@ -1,5 +1,8 @@
 # Fishing Waypoints for Black Desert Online
 
+If you are curious what else can be done (in a similar fashion) take a look at my node waypoints [Here](https://github.com/Flockenberger/bdo-region-waypoints/tree/main)
+Preview-Images in this repository will be update to resemble the node Preview-Images in the above repository soon!
+
 ## Installation Guide
 Press on the image to be redirected to YouTube.
 
@@ -20,7 +23,6 @@ Newer regions are marked as "Unknown_Zone_XXX" (I am very creative :) ) and is b
 As another side-note:
 `All Y positions are set to 0!`
 If you encounter specific problems with it lmk.`
-
 
 ## Future Stuff
 As you may have realised, this repo only contains the worldMapBookMark.data files, and no code for generation or similar. There are a few reasons... first the code is still a hot mess since I threw it together in a day, second I don't want to publish files, structures etc. which PA might have something against (for obvious reasons).
