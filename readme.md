@@ -6,7 +6,7 @@ Big thanks to **Karpfen** who gave me the idea in the first place, and who endur
 ## Installation Guide
 Press on the image to be redirected to YouTube.
 
-[![Installation Guide](https://img.youtube.com/vi/9IEUVFMCixw/0.jpg)](https://www.youtube.com/watch?v=9IEUVFMCixw)
+[![Installation Guide](https://img.youtube.com/vi/W-bWmKdv8K8/0.jpg)](https://youtu.be/W-bWmKdv8K8)
 
 ## About
 
