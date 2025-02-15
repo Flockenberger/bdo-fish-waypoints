@@ -221,6 +221,8 @@
 		<BookMark BookMarkName="214: Drieghan - Upstream (Drieghan)" PosX="-40959.96074676514" PosY="0" PosZ="-248169.45667266846" />
 		<BookMark BookMarkName="215: Drieghan - Upstream (Drieghan)" PosX="63849.45306777954" PosY="0" PosZ="-387312.9888057709" />
 		<BookMark BookMarkName="216: Drieghan - Upstream (Drieghan)" PosX="-52705.84332942963" PosY="0" PosZ="-383096.5181350708" />
+		<BookMark BookMarkName="312: Drieghan - Okiara River" PosX="129204.74846363068" PosY="0" PosZ="-378578.87098789215" />
+		<BookMark BookMarkName="313: Drieghan - Okiara River" PosX="124385.92483997345" PosY="0" PosZ="-212028.27949523926" />
 		<BookMark BookMarkName="217: Elsana Sea - Depth 1" PosX="-471341.1456346512" PosY="0" PosZ="-552960.050868988" />
 		<BookMark BookMarkName="218: Elsana Sea - Depth 1" PosX="-632470.5605506897" PosY="0" PosZ="-502964.7557735443" />
 		<BookMark BookMarkName="219: Elsana Sea - Depth 2" PosX="-494230.557847023" PosY="0" PosZ="-572837.6983165741" />
@@ -316,8 +318,6 @@
 		<BookMark BookMarkName="309: Kamasylvia - Kamasylvia Terrain" PosX="-534588.2056951523" PosY="0" PosZ="-323463.5757923126" />
 		<BookMark BookMarkName="310: Kamasylvia - Lake Flondor" PosX="-477665.8516407013" PosY="0" PosZ="-413214.16578292847" />
 		<BookMark BookMarkName="311: Kamasylvia - Lake Flondor" PosX="-504771.7345237732" PosY="0" PosZ="-480376.52003765106" />
-		<BookMark BookMarkName="312: Kamasylvia - Okiara River" PosX="129204.74846363068" PosY="0" PosZ="-378578.87098789215" />
-		<BookMark BookMarkName="313: Kamasylvia - Okiara River" PosX="124385.92483997345" PosY="0" PosZ="-212028.27949523926" />
 		<BookMark BookMarkName="314: Kamasylvia - Tooth Fairy Cabin" PosX="-540009.3822717667" PosY="0" PosZ="-326475.3405570984" />
 		<BookMark BookMarkName="315: Kamasylvia - Tooth Fairy Cabin" PosX="-405684.6737623215" PosY="0" PosZ="-494230.6379556656" />
 		<BookMark BookMarkName="316: Kamasylvia - Tooth Fairy Cabin" PosX="-351774.08447265625" PosY="0" PosZ="-423755.34245967865" />

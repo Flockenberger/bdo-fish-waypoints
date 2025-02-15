@@ -1,5 +1,5 @@
-## Kamasylvia - Okiara River
-This folder contains the waypoints for the fishing spot: Kamasylvia - Okiara River as seen below.
+## Drieghan - Okiara River
+This folder contains the waypoints for the fishing spot: Drieghan - Okiara River as seen below.
 
 - **Red Points**: Exact in-game waypoints ( Y = 0!).
 - **Colored Areas**: Entire area where the fishing table is consistent.
