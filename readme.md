@@ -3,6 +3,8 @@ These files were created to make your fishing life in BDO easier.
 
 Big thanks to **Karpfen** who gave me the idea in the first place, and who endured me while I tried to make the preview images prettier :D
 
+If you are curious how I created the waypoints, I wrote about them [HERE](https://flockenberger.github.io/blog/black-desert-online-fishing-waypoints/).
+
 ## Installation Guide
 Press on the image to be redirected to YouTube.
 
