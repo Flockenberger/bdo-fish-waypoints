@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Mediah%20Sea%20-%20Depth%203
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Mediah Sea - Depth 3" PosX="294249.4575738907" PosY="0" PosZ="132216.43311977386" />
-		<BookMark BookMarkName="1: Mediah Sea - Depth 3" PosX="309609.4578742981" PosY="0" PosZ="156611.72771453857" />
-		<BookMark BookMarkName="2: Mediah Sea - Depth 3" PosX="300875.3400564194" PosY="0" PosZ="168056.4338207245" />
-		<BookMark BookMarkName="3: Mediah Sea - Depth 3" PosX="297562.39881515503" PosY="0" PosZ="118362.31520175934" />
+		<BookMark BookMarkName="0: Mediah Sea - Depth 3" PosX="294249.4575738907" PosY="-8175" PosZ="132216.43311977386" />
+		<BookMark BookMarkName="1: Mediah Sea - Depth 3" PosX="309609.4578742981" PosY="-8175" PosZ="156611.72771453857" />
+		<BookMark BookMarkName="2: Mediah Sea - Depth 3" PosX="300875.3400564194" PosY="-8175" PosZ="168056.4338207245" />
+		<BookMark BookMarkName="3: Mediah Sea - Depth 3" PosX="297562.39881515503" PosY="-8175" PosZ="118362.31520175934" />
 	</WorldmapBookMark>

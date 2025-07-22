@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Eltro%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Eltro Sea - Coast" PosX="234014.16227817535" PosY="0" PosZ="543623.4999895096" />
-		<BookMark BookMarkName="1: Eltro Sea - Coast" PosX="259011.80982589722" PosY="0" PosZ="546635.2647542953" />
-		<BookMark BookMarkName="2: Eltro Sea - Coast" PosX="299068.2811975479" PosY="0" PosZ="427971.73302173615" />
-		<BookMark BookMarkName="3: Eltro Sea - Coast" PosX="272564.75126743317" PosY="0" PosZ="397854.0853738785" />
+		<BookMark BookMarkName="0: Eltro Sea - Coast" PosX="234014.16227817535" PosY="-8175" PosZ="543623.4999895096" />
+		<BookMark BookMarkName="1: Eltro Sea - Coast" PosX="259011.80982589722" PosY="-8175" PosZ="546635.2647542953" />
+		<BookMark BookMarkName="2: Eltro Sea - Coast" PosX="299068.2811975479" PosY="-8175" PosZ="427971.73302173615" />
+		<BookMark BookMarkName="3: Eltro Sea - Coast" PosX="272564.75126743317" PosY="-8175" PosZ="397854.0853738785" />
 	</WorldmapBookMark>
