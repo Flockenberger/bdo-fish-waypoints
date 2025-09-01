@@ -14,6 +14,8 @@ Each waypoint marks a known fishing spot where a specific fish can be caught.
 - In rare situations, if a waypoint lies on the **edge of a fishing zone**, casting in the “wrong” direction may place your float in a different zone.  
 - This can result in catching the wrong type of fish.  
 
+Also, some waypoints may be in the grand ocean like Magoria or in the great Black Desert, in which case they wont worko for you, unless you have a compass that allows you to place waypoints in such locations!
+
 ---
 
 ## ⚖️ Disclaimer
