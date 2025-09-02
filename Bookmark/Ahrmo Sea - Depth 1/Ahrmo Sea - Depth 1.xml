@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Ahrmo%20Sea%20-%20Depth%201
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Ahrmo Sea - Depth 1" PosX="-421948.2034921646" PosY="0" PosZ="225279.96435165405" />
-		<BookMark BookMarkName="1: Ahrmo Sea - Depth 1" PosX="-349967.0256137848" PosY="0" PosZ="196367.0226097107" />
-		<BookMark BookMarkName="2: Ahrmo Sea - Depth 1" PosX="-373759.96725559235" PosY="0" PosZ="229797.6114988327" />
-		<BookMark BookMarkName="3: Ahrmo Sea - Depth 1" PosX="-457185.8512401581" PosY="0" PosZ="141251.72741413116" />
+		<BookMark BookMarkName="0: Ahrmo Sea - Depth 1" PosX="-421948.2034921646" PosY="-8175" PosZ="225279.96435165405" />
+		<BookMark BookMarkName="1: Ahrmo Sea - Depth 1" PosX="-349967.0256137848" PosY="-8175" PosZ="196367.0226097107" />
+		<BookMark BookMarkName="2: Ahrmo Sea - Depth 1" PosX="-373759.96725559235" PosY="-8175" PosZ="229797.6114988327" />
+		<BookMark BookMarkName="3: Ahrmo Sea - Depth 1" PosX="-457185.8512401581" PosY="-8175" PosZ="141251.72741413116" />
 	</WorldmapBookMark>

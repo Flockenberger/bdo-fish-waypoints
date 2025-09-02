@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Zenato%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Zenato Sea - Coast" PosX="-290334.0832710266" PosY="0" PosZ="382192.9085969925" />
-		<BookMark BookMarkName="1: Zenato Sea - Coast" PosX="-311115.2601480484" PosY="0" PosZ="432489.3801689148" />
-		<BookMark BookMarkName="2: Zenato Sea - Coast" PosX="-409298.7914800644" PosY="0" PosZ="339727.0254135132" />
-		<BookMark BookMarkName="3: Zenato Sea - Coast" PosX="-262324.670958519" PosY="0" PosZ="412912.9091978073" />
+		<BookMark BookMarkName="0: Zenato Sea - Coast" PosX="-290334.0832710266" PosY="-8175" PosZ="382192.9085969925" />
+		<BookMark BookMarkName="1: Zenato Sea - Coast" PosX="-311115.2601480484" PosY="-8175" PosZ="432489.3801689148" />
+		<BookMark BookMarkName="2: Zenato Sea - Coast" PosX="-409298.7914800644" PosY="-8175" PosZ="339727.0254135132" />
+		<BookMark BookMarkName="3: Zenato Sea - Coast" PosX="-262324.670958519" PosY="-8175" PosZ="412912.9091978073" />
 	</WorldmapBookMark>

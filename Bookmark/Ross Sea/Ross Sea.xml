@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Ross%20Sea
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Ross Sea" PosX="280395.33965587616" PosY="0" PosZ="667105.855345726" />
-		<BookMark BookMarkName="1: Ross Sea" PosX="-628254.0898799896" PosY="0" PosZ="-88244.74766254425" />
-		<BookMark BookMarkName="2: Ross Sea" PosX="349967.10572242737" PosY="0" PosZ="768301.1514425278" />
-		<BookMark BookMarkName="3: Ross Sea" PosX="221364.75026607513" PosY="0" PosZ="821007.0348262787" />
+		<BookMark BookMarkName="0: Ross Sea" PosX="280395.33965587616" PosY="-8175" PosZ="667105.855345726" />
+		<BookMark BookMarkName="1: Ross Sea" PosX="-628254.0898799896" PosY="-8175" PosZ="-88244.74766254425" />
+		<BookMark BookMarkName="2: Ross Sea" PosX="349967.10572242737" PosY="-8175" PosZ="768301.1514425278" />
+		<BookMark BookMarkName="3: Ross Sea" PosX="221364.75026607513" PosY="-8175" PosZ="821007.0348262787" />
 	</WorldmapBookMark>

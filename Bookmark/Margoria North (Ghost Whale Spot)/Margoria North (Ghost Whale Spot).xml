@@ -4,8 +4,8 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Margoria%20North%20(Ghost%20Whale%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Margoria North (Ghost Whale Spot)" PosX="-1246870.572566986" PosY="0" PosZ="727341.1506414413" />
-		<BookMark BookMarkName="1: Margoria North (Ghost Whale Spot)" PosX="-1218258.8073015213" PosY="0" PosZ="779143.5045957565" />
-		<BookMark BookMarkName="2: Margoria North (Ghost Whale Spot)" PosX="-1217957.6308250427" PosY="0" PosZ="795708.2108020782" />
-		<BookMark BookMarkName="3: Margoria North (Ghost Whale Spot)" PosX="-1249882.3373317719" PosY="0" PosZ="788781.151843071" />
+		<BookMark BookMarkName="0: Margoria North (Ghost Whale Spot)" PosX="-1246870.572566986" PosY="-8175" PosZ="727341.1506414413" />
+		<BookMark BookMarkName="1: Margoria North (Ghost Whale Spot)" PosX="-1218258.8073015213" PosY="-8175" PosZ="779143.5045957565" />
+		<BookMark BookMarkName="2: Margoria North (Ghost Whale Spot)" PosX="-1217957.6308250427" PosY="-8175" PosZ="795708.2108020782" />
+		<BookMark BookMarkName="3: Margoria North (Ghost Whale Spot)" PosX="-1249882.3373317719" PosY="-8175" PosZ="788781.151843071" />
 	</WorldmapBookMark>
