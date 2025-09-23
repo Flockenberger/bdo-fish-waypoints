@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Calpheon%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Calpheon - Terrain" PosX="-272564.6711587906" PosY="0" PosZ="-329788.28179836273" />
-		<BookMark BookMarkName="1: Calpheon - Terrain" PosX="-323764.6721601486" PosY="0" PosZ="79510.54973602295" />
-		<BookMark BookMarkName="2: Calpheon - Terrain" PosX="-243049.37646389008" PosY="0" PosZ="-86437.68880367279" />
+		<BookMark BookMarkName="1: Calpheon - Terrain" PosX="-372856.4378261566" PosY="0.0" PosZ="-215040.04426002502" />
+		<BookMark BookMarkName="2: Calpheon - Terrain" PosX="-328583.49578380585" PosY="0.0" PosZ="69270.54953575134" />
+		<BookMark BookMarkName="3: Calpheon - Terrain" PosX="-138541.13912582397" PosY="0.0" PosZ="-103002.3950099945" />
+		<BookMark BookMarkName="4: Calpheon - Terrain" PosX="-147576.43342018127" PosY="0.0" PosZ="-71378.86497974396" />
+		<BookMark BookMarkName="5: Calpheon - Terrain" PosX="-229496.43502235413" PosY="0.0" PosZ="48188.19618225098" />
 	</WorldmapBookMark>

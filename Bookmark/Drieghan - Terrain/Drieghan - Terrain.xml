@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Terrain" PosX="-62343.49057674408" PosY="0" PosZ="-309308.2813978195" />
-		<BookMark BookMarkName="1: Drieghan - Terrain" PosX="-73185.84372997284" PosY="0" PosZ="-462607.10792541504" />
-		<BookMark BookMarkName="2: Drieghan - Terrain" PosX="-125590.55063724518" PosY="0" PosZ="-462004.7549724579" />
-		<BookMark BookMarkName="3: Drieghan - Terrain" PosX="-264432.906293869" PosY="0" PosZ="-427971.8131303787" />
+		<BookMark BookMarkName="1: Drieghan - Terrain" PosX="-249072.9059934616" PosY="0.0" PosZ="-370447.1061229706" />
+		<BookMark BookMarkName="2: Drieghan - Terrain" PosX="-174682.31630325317" PosY="0.0" PosZ="-463510.63735485077" />
+		<BookMark BookMarkName="3: Drieghan - Terrain" PosX="-114447.02100753784" PosY="0.0" PosZ="-449957.6959133148" />
+		<BookMark BookMarkName="4: Drieghan - Terrain" PosX="-263529.3768644333" PosY="0.0" PosZ="-423755.34245967865" />
+		<BookMark BookMarkName="5: Drieghan - Terrain" PosX="-121072.90349006653" PosY="0.0" PosZ="-467425.93154907227" />
 	</WorldmapBookMark>

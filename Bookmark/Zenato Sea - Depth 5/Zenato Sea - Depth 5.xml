@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Zenato%20Sea%20-%20Depth%205
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Zenato Sea - Depth 5" PosX="-186127.0224094391" PosY="0" PosZ="452969.380569458" />
-		<BookMark BookMarkName="1: Zenato Sea - Depth 5" PosX="-349063.49618434906" PosY="0" PosZ="455679.9688577652" />
-		<BookMark BookMarkName="2: Zenato Sea - Depth 5" PosX="-287021.14202976227" PosY="0" PosZ="355689.37866687775" />
-		<BookMark BookMarkName="3: Zenato Sea - Depth 5" PosX="-462004.6748638153" PosY="0" PosZ="359604.67286109924" />
+		<BookMark BookMarkName="1: Zenato Sea - Depth 5" PosX="-192451.7284154892" PosY="-8175.0" PosZ="458992.91009902954" />
+		<BookMark BookMarkName="2: Zenato Sea - Depth 5" PosX="-349665.8491373062" PosY="-8175.0" PosZ="456583.4982872009" />
+		<BookMark BookMarkName="3: Zenato Sea - Depth 5" PosX="-290334.0832710266" PosY="-8175.0" PosZ="355087.0257139206" />
+		<BookMark BookMarkName="4: Zenato Sea - Depth 5" PosX="-469534.0867757797" PosY="-8175.0" PosZ="360508.202290535" />
+		<BookMark BookMarkName="5: Zenato Sea - Depth 5" PosX="-289731.73031806946" PosY="-8175.0" PosZ="356894.08457279205" />
 	</WorldmapBookMark>

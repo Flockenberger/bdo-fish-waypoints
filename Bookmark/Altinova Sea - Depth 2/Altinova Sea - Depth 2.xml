@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Altinova%20Sea%20-%20Depth%202
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Altinova Sea - Depth 2" PosX="401167.1067237854" PosY="0" PosZ="-101797.6891040802" />
-		<BookMark BookMarkName="1: Altinova Sea - Depth 2" PosX="357496.5176343918" PosY="0" PosZ="-93063.57128620148" />
-		<BookMark BookMarkName="2: Altinova Sea - Depth 2" PosX="394541.2242412567" PosY="0" PosZ="-19275.334548950195" />
+		<BookMark BookMarkName="1: Altinova Sea - Depth 2" PosX="330691.81122779846" PosY="-8175.0" PosZ="-12348.275589942932" />
+		<BookMark BookMarkName="2: Altinova Sea - Depth 2" PosX="369844.7531700134" PosY="-8175.0" PosZ="-97882.3949098587" />
+		<BookMark BookMarkName="3: Altinova Sea - Depth 2" PosX="394240.04776477814" PosY="-8175.0" PosZ="-20178.863978385925" />
+		<BookMark BookMarkName="4: Altinova Sea - Depth 2" PosX="363218.87068748474" PosY="-8175.0" PosZ="-97280.04195690155" />
+		<BookMark BookMarkName="5: Altinova Sea - Depth 2" PosX="325270.6346511841" PosY="-8175.0" PosZ="-10541.216731071472" />
 	</WorldmapBookMark>

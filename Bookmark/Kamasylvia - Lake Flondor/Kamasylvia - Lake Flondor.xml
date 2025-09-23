@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Kamasylvia%20-%20Lake%20Flondor
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Kamasylvia - Lake Flondor" PosX="-477665.8516407013" PosY="0" PosZ="-413214.16578292847" />
-		<BookMark BookMarkName="1: Kamasylvia - Lake Flondor" PosX="-504771.7345237732" PosY="0" PosZ="-480376.52003765106" />
+		<BookMark BookMarkName="1: Kamasylvia - Lake Flondor" PosX="-498145.8520412445" PosY="0.0" PosZ="-397854.16548252106" />
+		<BookMark BookMarkName="2: Kamasylvia - Lake Flondor" PosX="-509289.38167095184" PosY="0.0" PosZ="-479171.81413173676" />
+		<BookMark BookMarkName="3: Kamasylvia - Lake Flondor" PosX="-509289.38167095184" PosY="0.0" PosZ="-479171.81413173676" />
+		<BookMark BookMarkName="4: Kamasylvia - Lake Flondor" PosX="-509289.38167095184" PosY="0.0" PosZ="-479171.81413173676" />
+		<BookMark BookMarkName="5: Kamasylvia - Lake Flondor" PosX="-485797.61650562286" PosY="0.0" PosZ="-402070.63615322113" />
 	</WorldmapBookMark>

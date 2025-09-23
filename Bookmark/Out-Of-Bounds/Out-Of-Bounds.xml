@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Out-Of-Bounds
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Out-Of-Bounds" PosX="-1834164.7017002106" PosY="0" PosZ="1235727.0429372787" />
-		<BookMark BookMarkName="1: Out-Of-Bounds" PosX="-46682.31379985809" PosY="0" PosZ="-1075802.4140357971" />
-		<BookMark BookMarkName="2: Out-Of-Bounds" PosX="1130315.3562784195" PosY="0" PosZ="587294.0890789032" />
-		<BookMark BookMarkName="3: Out-Of-Bounds" PosX="1246268.2997226715" PosY="0" PosZ="556272.9120016098" />
+		<BookMark BookMarkName="1: Out-Of-Bounds" PosX="-790287.0342254639" PosY="-8175.0" PosZ="-836969.4681882858" />
+		<BookMark BookMarkName="2: Out-Of-Bounds" PosX="1118569.473695755" PosY="-8175.0" PosZ="583981.1478376389" />
+		<BookMark BookMarkName="3: Out-Of-Bounds" PosX="1250785.9468698502" PosY="-8175.0" PosZ="557477.6179075241" />
+		<BookMark BookMarkName="4: Out-Of-Bounds" PosX="904131.8224430084" PosY="-8175.0" PosZ="534287.0292186737" />
+		<BookMark BookMarkName="5: Out-Of-Bounds" PosX="842390.6447649002" PosY="-8175.0" PosZ="415623.4974861145" />
 	</WorldmapBookMark>

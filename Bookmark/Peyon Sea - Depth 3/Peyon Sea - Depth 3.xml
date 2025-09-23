@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Peyon%20Sea%20-%20Depth%203
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Peyon Sea - Depth 3" PosX="-553261.147236824" PosY="0" PosZ="64752.90238857269" />
-		<BookMark BookMarkName="1: Peyon Sea - Depth 3" PosX="-515915.26415348053" PosY="0" PosZ="99087.02070713043" />
-		<BookMark BookMarkName="2: Peyon Sea - Depth 3" PosX="-500254.08737659454" PosY="0" PosZ="47284.66675281525" />
-		<BookMark BookMarkName="3: Peyon Sea - Depth 3" PosX="-480978.79288196564" PosY="0" PosZ="76498.78497123718" />
+		<BookMark BookMarkName="1: Peyon Sea - Depth 3" PosX="-522239.97015953064" PosY="-8175.0" PosZ="11745.8425283432" />
+		<BookMark BookMarkName="2: Peyon Sea - Depth 3" PosX="-538804.6763658524" PosY="-8175.0" PosZ="37647.01950550079" />
+		<BookMark BookMarkName="3: Peyon Sea - Depth 3" PosX="-488809.38127040863" PosY="-8175.0" PosZ="71077.6083946228" />
+		<BookMark BookMarkName="4: Peyon Sea - Depth 3" PosX="-462004.6748638153" PosY="-8175.0" PosZ="80112.9026889801" />
+		<BookMark BookMarkName="5: Peyon Sea - Depth 3" PosX="-468931.73382282257" PosY="-8175.0" PosZ="61138.78467082977" />
 	</WorldmapBookMark>

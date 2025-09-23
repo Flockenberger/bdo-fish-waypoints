@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/O'dyllita%20Waters
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: O'dyllita Waters" PosX="-213534.08176898956" PosY="0" PosZ="-555670.6391572952" />
-		<BookMark BookMarkName="1: O'dyllita Waters" PosX="-340329.37836647034" PosY="0" PosZ="-552960.050868988" />
-		<BookMark BookMarkName="2: O'dyllita Waters" PosX="-118362.31520175934" PosY="0" PosZ="-670418.8766956329" />
-		<BookMark BookMarkName="3: O'dyllita Waters" PosX="-165647.02200889587" PosY="0" PosZ="-632470.6406593323" />
+		<BookMark BookMarkName="1: O'dyllita Waters" PosX="-217148.19948673248" PosY="0.0" PosZ="-545430.6389570236" />
+		<BookMark BookMarkName="2: O'dyllita Waters" PosX="-298465.8481359482" PosY="0.0" PosZ="-517722.40312099457" />
+		<BookMark BookMarkName="3: O'dyllita Waters" PosX="-106917.60909557343" PosY="0.0" PosZ="-686983.5829019547" />
+		<BookMark BookMarkName="4: O'dyllita Waters" PosX="-182211.7282152176" PosY="0.0" PosZ="-638494.1701889038" />
+		<BookMark BookMarkName="5: O'dyllita Waters" PosX="-239435.25874614716" PosY="0.0" PosZ="-604160.0518703461" />
 	</WorldmapBookMark>

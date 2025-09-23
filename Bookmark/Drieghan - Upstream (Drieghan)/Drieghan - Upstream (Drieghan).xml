@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Upstream%20(Drieghan)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Upstream (Drieghan)" PosX="-121675.25644302368" PosY="0" PosZ="-403877.6950120926" />
-		<BookMark BookMarkName="1: Drieghan - Upstream (Drieghan)" PosX="-40959.96074676514" PosY="0" PosZ="-248169.45667266846" />
-		<BookMark BookMarkName="2: Drieghan - Upstream (Drieghan)" PosX="63849.45306777954" PosY="0" PosZ="-387312.9888057709" />
-		<BookMark BookMarkName="3: Drieghan - Upstream (Drieghan)" PosX="-52705.84332942963" PosY="0" PosZ="-383096.5181350708" />
+		<BookMark BookMarkName="1: Drieghan - Upstream (Drieghan)" PosX="-111435.25624275208" PosY="0.0" PosZ="-383397.6946115494" />
+		<BookMark BookMarkName="2: Drieghan - Upstream (Drieghan)" PosX="-19576.430916786194" PosY="0.0" PosZ="-250880.04496097565" />
+		<BookMark BookMarkName="3: Drieghan - Upstream (Drieghan)" PosX="79510.62984466553" PosY="0.0" PosZ="-369844.7531700134" />
+		<BookMark BookMarkName="4: Drieghan - Upstream (Drieghan)" PosX="-56018.78457069397" PosY="0.0" PosZ="-375265.9297466278" />
+		<BookMark BookMarkName="5: Drieghan - Upstream (Drieghan)" PosX="-276479.9653530121" PosY="0.0" PosZ="-410804.75397109985" />
 	</WorldmapBookMark>

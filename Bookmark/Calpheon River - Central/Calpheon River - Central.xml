@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Calpheon%20River%20-%20Central
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Calpheon River - Central" PosX="-225581.14082813263" PosY="0" PosZ="-54211.80582046509" />
-		<BookMark BookMarkName="1: Calpheon River - Central" PosX="-344847.025513649" PosY="0" PosZ="-25298.86407852173" />
-		<BookMark BookMarkName="2: Calpheon River - Central" PosX="-303284.6717596054" PosY="0" PosZ="-22889.452266693115" />
+		<BookMark BookMarkName="1: Calpheon River - Central" PosX="-213232.905292511" PosY="0.0" PosZ="-58127.100014686584" />
+		<BookMark BookMarkName="2: Calpheon River - Central" PosX="-341534.08427238464" PosY="0.0" PosZ="-27407.099413871765" />
+		<BookMark BookMarkName="3: Calpheon River - Central" PosX="-302983.49528312683" PosY="0.0" PosZ="-21082.393407821655" />
+		<BookMark BookMarkName="4: Calpheon River - Central" PosX="-321054.08387184143" PosY="0.0" PosZ="-23190.628743171692" />
+		<BookMark BookMarkName="5: Calpheon River - Central" PosX="-302381.1423301697" PosY="0.0" PosZ="-22889.452266693115" />
 	</WorldmapBookMark>

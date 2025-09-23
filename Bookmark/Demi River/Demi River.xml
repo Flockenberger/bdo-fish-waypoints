@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Demi%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Demi River" PosX="62343.57068538666" PosY="0" PosZ="-52705.923438072205" />
-		<BookMark BookMarkName="1: Demi River" PosX="3915.3342485427856" PosY="0" PosZ="-43068.27619075775" />
-		<BookMark BookMarkName="2: Demi River" PosX="-301.1364221572876" PosY="0" PosZ="-46983.57038497925" />
-		<BookMark BookMarkName="3: Demi River" PosX="-19877.60739326477" PosY="0" PosZ="-44574.158573150635" />
+		<BookMark BookMarkName="1: Demi River" PosX="70475.33555030823" PosY="0.0" PosZ="-52705.923438072205" />
+		<BookMark BookMarkName="2: Demi River" PosX="14757.687401771545" PosY="0.0" PosZ="-42767.099714279175" />
+		<BookMark BookMarkName="3: Demi River" PosX="-37647.01950550079" PosY="0.0" PosZ="-58428.27649116516" />
+		<BookMark BookMarkName="4: Demi River" PosX="85534.15937423706" PosY="0.0" PosZ="-46682.39390850067" />
+		<BookMark BookMarkName="5: Demi River" PosX="90051.80652141571" PosY="0.0" PosZ="-43670.629143714905" />
 	</WorldmapBookMark>

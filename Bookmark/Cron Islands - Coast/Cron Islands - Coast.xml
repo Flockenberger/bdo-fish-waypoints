@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Cron%20Islands%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Cron Islands - Coast" PosX="-1505.8423280715942" PosY="0" PosZ="304489.3776655197" />
-		<BookMark BookMarkName="1: Cron Islands - Coast" PosX="53308.27639102936" PosY="0" PosZ="163839.9631500244" />
-		<BookMark BookMarkName="2: Cron Islands - Coast" PosX="44574.158573150635" PosY="0" PosZ="252084.67075824738" />
-		<BookMark BookMarkName="3: Cron Islands - Coast" PosX="75294.15917396545" PosY="0" PosZ="240338.7881755829" />
+		<BookMark BookMarkName="1: Cron Islands - Coast" PosX="13552.981495857239" PosY="-8175.0" PosZ="300272.90699481964" />
+		<BookMark BookMarkName="2: Cron Islands - Coast" PosX="35237.68780231476" PosY="-8175.0" PosZ="169863.49267959595" />
+		<BookMark BookMarkName="3: Cron Islands - Coast" PosX="43971.80562019348" PosY="-8175.0" PosZ="258108.2002878189" />
+		<BookMark BookMarkName="4: Cron Islands - Coast" PosX="75896.51212692261" PosY="-8175.0" PosZ="235218.78807544708" />
+		<BookMark BookMarkName="5: Cron Islands - Coast" PosX="52103.57048511505" PosY="-8175.0" PosZ="206908.19928646088" />
 	</WorldmapBookMark>

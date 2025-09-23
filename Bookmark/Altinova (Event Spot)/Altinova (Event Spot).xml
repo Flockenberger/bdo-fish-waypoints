@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Altinova%20(Event%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Altinova (Event Spot)" PosX="336414.1642808914" PosY="0" PosZ="-58729.45296764374" />
-		<BookMark BookMarkName="1: Altinova (Event Spot)" PosX="336715.34075737" PosY="0" PosZ="-61440.04125595093" />
-		<BookMark BookMarkName="2: Altinova (Event Spot)" PosX="337016.5172338486" PosY="0" PosZ="-58729.45296764374" />
-		<BookMark BookMarkName="3: Altinova (Event Spot)" PosX="337618.8701868057" PosY="0" PosZ="-59632.98239707947" />
+		<BookMark BookMarkName="1: Altinova (Event Spot)" PosX="337618.8701868057" PosY="-8175.0" PosZ="-59331.80592060089" />
+		<BookMark BookMarkName="2: Altinova (Event Spot)" PosX="336715.34075737" PosY="-8175.0" PosZ="-61138.86477947235" />
+		<BookMark BookMarkName="3: Altinova (Event Spot)" PosX="336715.34075737" PosY="-8175.0" PosZ="-62945.92363834381" />
+		<BookMark BookMarkName="4: Altinova (Event Spot)" PosX="336112.98780441284" PosY="-8175.0" PosZ="-61138.86477947235" />
+		<BookMark BookMarkName="5: Altinova (Event Spot)" PosX="338522.39961624146" PosY="-8175.0" PosZ="-59632.98239707947" />
 	</WorldmapBookMark>

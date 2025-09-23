@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Upstream%20(Calpheon)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Upstream (Calpheon)" PosX="-160527.02190876007" PosY="0" PosZ="-308404.7519683838" />
-		<BookMark BookMarkName="1: Drieghan - Upstream (Calpheon)" PosX="-159924.66895580292" PosY="0" PosZ="-306898.8695859909" />
-		<BookMark BookMarkName="2: Drieghan - Upstream (Calpheon)" PosX="-141854.08036708832" PosY="0" PosZ="-305694.1636800766" />
-		<BookMark BookMarkName="3: Drieghan - Upstream (Calpheon)" PosX="-156611.72771453857" PosY="0" PosZ="-304790.63425064087" />
+		<BookMark BookMarkName="1: Drieghan - Upstream (Calpheon)" PosX="-154503.49237918854" PosY="0.0" PosZ="-308705.92844486237" />
+		<BookMark BookMarkName="2: Drieghan - Upstream (Calpheon)" PosX="-159623.49247932434" PosY="0.0" PosZ="-306898.8695859909" />
+		<BookMark BookMarkName="3: Drieghan - Upstream (Calpheon)" PosX="-148178.78637313843" PosY="0.0" PosZ="-305995.3401565552" />
+		<BookMark BookMarkName="4: Drieghan - Upstream (Calpheon)" PosX="-160225.8454322815" PosY="0.0" PosZ="-311416.51673316956" />
+		<BookMark BookMarkName="5: Drieghan - Upstream (Calpheon)" PosX="-158117.61009693146" PosY="0.0" PosZ="-314428.2814979553" />
 	</WorldmapBookMark>

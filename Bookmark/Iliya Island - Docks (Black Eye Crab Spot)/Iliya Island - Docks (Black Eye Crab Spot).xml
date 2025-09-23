@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Iliya%20Island%20-%20Docks%20(Black%20Eye%20Crab%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Iliya Island - Docks (Black Eye Crab Spot)" PosX="159021.21963500977" PosY="0" PosZ="287924.671459198" />
-		<BookMark BookMarkName="1: Iliya Island - Docks (Black Eye Crab Spot)" PosX="150889.4547700882" PosY="0" PosZ="291237.61270046234" />
-		<BookMark BookMarkName="2: Iliya Island - Docks (Black Eye Crab Spot)" PosX="152997.69010543823" PosY="0" PosZ="288225.8479356766" />
-		<BookMark BookMarkName="3: Iliya Island - Docks (Black Eye Crab Spot)" PosX="154503.57248783112" PosY="0" PosZ="285515.2596473694" />
+		<BookMark BookMarkName="1: Iliya Island - Docks (Black Eye Crab Spot)" PosX="154202.39601135254" PosY="-8175.0" PosZ="287623.4949827194" />
+		<BookMark BookMarkName="2: Iliya Island - Docks (Black Eye Crab Spot)" PosX="152696.51362895966" PosY="-8175.0" PosZ="290334.0832710266" />
+		<BookMark BookMarkName="3: Iliya Island - Docks (Black Eye Crab Spot)" PosX="155105.92544078827" PosY="-8175.0" PosZ="289129.3773651123" />
+		<BookMark BookMarkName="4: Iliya Island - Docks (Black Eye Crab Spot)" PosX="155708.27839374542" PosY="-8175.0" PosZ="288225.8479356766" />
+		<BookMark BookMarkName="5: Iliya Island - Docks (Black Eye Crab Spot)" PosX="156912.98429965973" PosY="-8175.0" PosZ="289430.5538415909" />
 	</WorldmapBookMark>

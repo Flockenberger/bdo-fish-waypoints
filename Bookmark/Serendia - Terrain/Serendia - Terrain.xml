@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Serendia%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Serendia - Terrain" PosX="138541.21923446655" PosY="0" PosZ="-117458.86588096619" />
-		<BookMark BookMarkName="1: Serendia - Terrain" PosX="67764.74726200104" PosY="0" PosZ="-28009.45236682892" />
-		<BookMark BookMarkName="2: Serendia - Terrain" PosX="-90352.90288925171" PosY="0" PosZ="-29816.51122570038" />
-		<BookMark BookMarkName="3: Serendia - Terrain" PosX="190042.39671230316" PosY="0" PosZ="-268047.1041202545" />
+		<BookMark BookMarkName="1: Serendia - Terrain" PosX="-85534.07926559448" PosY="0.0" PosZ="-151792.98419952393" />
+		<BookMark BookMarkName="2: Serendia - Terrain" PosX="-44875.25494098663" PosY="0.0" PosZ="-11444.746160507202" />
+		<BookMark BookMarkName="3: Serendia - Terrain" PosX="-80715.25564193726" PosY="0.0" PosZ="-19877.68750190735" />
+		<BookMark BookMarkName="4: Serendia - Terrain" PosX="189440.043759346" PosY="0.0" PosZ="-225581.2209367752" />
+		<BookMark BookMarkName="5: Serendia - Terrain" PosX="-89148.1969833374" PosY="0.0" PosZ="-101195.33615112305" />
 	</WorldmapBookMark>

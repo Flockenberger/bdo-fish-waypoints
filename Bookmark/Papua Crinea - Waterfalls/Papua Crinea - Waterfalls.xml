@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Papua%20Crinea%20-%20Waterfalls
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Papua Crinea - Waterfalls" PosX="-651444.67856884" PosY="0" PosZ="-156912.98429965973" />
-		<BookMark BookMarkName="1: Papua Crinea - Waterfalls" PosX="-655661.1492395401" PosY="0" PosZ="-163237.69030570984" />
-		<BookMark BookMarkName="2: Papua Crinea - Waterfalls" PosX="-651745.8550453186" PosY="0" PosZ="-162032.98439979553" />
-		<BookMark BookMarkName="3: Papua Crinea - Waterfalls" PosX="-651143.5020923615" PosY="0" PosZ="-162635.3373527527" />
+		<BookMark BookMarkName="1: Papua Crinea - Waterfalls" PosX="-655661.1492395401" PosY="-8175.0" PosZ="-163538.86678218842" />
+		<BookMark BookMarkName="2: Papua Crinea - Waterfalls" PosX="-657769.3845748901" PosY="-8175.0" PosZ="-166249.4550704956" />
+		<BookMark BookMarkName="3: Papua Crinea - Waterfalls" PosX="-656263.5021924973" PosY="-8175.0" PosZ="-162936.51382923126" />
+		<BookMark BookMarkName="4: Papua Crinea - Waterfalls" PosX="-653251.7374277115" PosY="-8175.0" PosZ="-161430.63144683838" />
+		<BookMark BookMarkName="5: Papua Crinea - Waterfalls" PosX="-657468.2080984116" PosY="-8175.0" PosZ="-164743.57268810272" />
 	</WorldmapBookMark>

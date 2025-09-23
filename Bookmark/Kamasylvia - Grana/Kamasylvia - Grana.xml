@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Kamasylvia%20-%20Grana
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Kamasylvia - Grana" PosX="-493929.38137054443" PosY="0" PosZ="-457487.10782527924" />
-		<BookMark BookMarkName="1: Kamasylvia - Grana" PosX="-510192.9111003876" PosY="0" PosZ="-463811.81383132935" />
-		<BookMark BookMarkName="2: Kamasylvia - Grana" PosX="-490917.61660575867" PosY="0" PosZ="-438211.81333065033" />
-		<BookMark BookMarkName="3: Kamasylvia - Grana" PosX="-515011.7347240448" PosY="0" PosZ="-463510.63735485077" />
+		<BookMark BookMarkName="1: Kamasylvia - Grana" PosX="-510795.2640533447" PosY="0.0" PosZ="-447548.2841014862" />
+		<BookMark BookMarkName="2: Kamasylvia - Grana" PosX="-504470.5580472946" PosY="0.0" PosZ="-448451.81353092194" />
+		<BookMark BookMarkName="3: Kamasylvia - Grana" PosX="-498748.20499420166" PosY="0.0" PosZ="-457487.10782527924" />
+		<BookMark BookMarkName="4: Kamasylvia - Grana" PosX="-504771.7345237732" PosY="0.0" PosZ="-463510.63735485077" />
+		<BookMark BookMarkName="5: Kamasylvia - Grana" PosX="-518023.49948883057" PosY="0.0" PosZ="-446644.7546720505" />
 	</WorldmapBookMark>

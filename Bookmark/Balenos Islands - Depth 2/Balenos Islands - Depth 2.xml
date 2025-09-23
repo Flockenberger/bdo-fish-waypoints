@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20Islands%20-%20Depth%202
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos Islands - Depth 2" PosX="-72884.66725349426" PosY="0" PosZ="163839.9631500244" />
-		<BookMark BookMarkName="1: Balenos Islands - Depth 2" PosX="-38249.37245845795" PosY="0" PosZ="212931.7288160324" />
-		<BookMark BookMarkName="2: Balenos Islands - Depth 2" PosX="-45176.43141746521" PosY="0" PosZ="247567.02361106873" />
-		<BookMark BookMarkName="3: Balenos Islands - Depth 2" PosX="-96075.25594234467" PosY="0" PosZ="222268.1995868683" />
+		<BookMark BookMarkName="1: Balenos Islands - Depth 2" PosX="-80112.9026889801" PosY="-8175.0" PosZ="255397.61199951172" />
+		<BookMark BookMarkName="2: Balenos Islands - Depth 2" PosX="-16564.666152000427" PosY="-8175.0" PosZ="236122.3175048828" />
+		<BookMark BookMarkName="3: Balenos Islands - Depth 2" PosX="-53308.19628238678" PosY="-8175.0" PosZ="238531.72931671143" />
+		<BookMark BookMarkName="4: Balenos Islands - Depth 2" PosX="-95171.72651290894" PosY="-8175.0" PosZ="224677.6113986969" />
+		<BookMark BookMarkName="5: Balenos Islands - Depth 2" PosX="-116856.43281936646" PosY="-8175.0" PosZ="229797.6114988327" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Nox%20Sea%20-%20Depth%204
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Nox Sea - Depth 4" PosX="-70776.43191814423" PosY="0" PosZ="499350.5579471588" />
-		<BookMark BookMarkName="1: Nox Sea - Depth 4" PosX="-4517.607092857361" PosY="0" PosZ="428272.9094982147" />
-		<BookMark BookMarkName="2: Nox Sea - Depth 4" PosX="-168357.61029720306" PosY="0" PosZ="425562.32120990753" />
-		<BookMark BookMarkName="3: Nox Sea - Depth 4" PosX="-128903.49187850952" PosY="0" PosZ="381891.7321205139" />
+		<BookMark BookMarkName="1: Nox Sea - Depth 4" PosX="-49995.25504112244" PosY="-8175.0" PosZ="504771.7345237732" />
+		<BookMark BookMarkName="2: Nox Sea - Depth 4" PosX="-10842.31309890747" PosY="-8175.0" PosZ="421647.02701568604" />
+		<BookMark BookMarkName="3: Nox Sea - Depth 4" PosX="-169863.49267959595" PosY="-8175.0" PosZ="432489.3801689148" />
+		<BookMark BookMarkName="4: Nox Sea - Depth 4" PosX="-126494.08006668091" PosY="-8175.0" PosZ="378277.614402771" />
+		<BookMark BookMarkName="5: Nox Sea - Depth 4" PosX="-3312.901186943054" PosY="-8175.0" PosZ="349063.49618434906" />
 	</WorldmapBookMark>

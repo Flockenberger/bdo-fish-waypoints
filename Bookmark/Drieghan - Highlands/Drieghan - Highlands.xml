@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Highlands
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Highlands" PosX="-39755.25484085083" PosY="0" PosZ="-319849.4580745697" />
-		<BookMark BookMarkName="1: Drieghan - Highlands" PosX="-18974.07796382904" PosY="0" PosZ="-412310.63635349274" />
-		<BookMark BookMarkName="2: Drieghan - Highlands" PosX="-123181.13882541656" PosY="0" PosZ="-320150.6345510483" />
-		<BookMark BookMarkName="3: Drieghan - Highlands" PosX="10842.393207550049" PosY="0" PosZ="-284310.63385009766" />
+		<BookMark BookMarkName="1: Drieghan - Highlands" PosX="-16564.666152000427" PosY="0.0" PosZ="-315632.9874038696" />
+		<BookMark BookMarkName="2: Drieghan - Highlands" PosX="-22287.019205093384" PosY="0.0" PosZ="-409298.87158870697" />
+		<BookMark BookMarkName="3: Drieghan - Highlands" PosX="-121072.90349006653" PosY="0.0" PosZ="-325270.6346511841" />
+		<BookMark BookMarkName="4: Drieghan - Highlands" PosX="10842.393207550049" PosY="0.0" PosZ="-277684.75136756897" />
+		<BookMark BookMarkName="5: Drieghan - Highlands" PosX="-165948.19848537445" PosY="0.0" PosZ="-355087.1058225632" />
 	</WorldmapBookMark>

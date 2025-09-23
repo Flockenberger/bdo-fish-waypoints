@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Terrmian%20Water%20Festival%20-%20Beach
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Terrmian Water Festival - Beach" PosX="-224677.6113986969" PosY="0" PosZ="170164.66915607452" />
-		<BookMark BookMarkName="1: Terrmian Water Festival - Beach" PosX="-228894.08206939697" PosY="0" PosZ="171369.37506198883" />
-		<BookMark BookMarkName="2: Terrmian Water Festival - Beach" PosX="-220762.3172044754" PosY="0" PosZ="176489.37516212463" />
-		<BookMark BookMarkName="3: Terrmian Water Festival - Beach" PosX="-228291.72911643982" PosY="0" PosZ="177091.7281150818" />
+		<BookMark BookMarkName="1: Terrmian Water Festival - Beach" PosX="-228291.72911643982" PosY="-8175.0" PosZ="173176.4339208603" />
+		<BookMark BookMarkName="2: Terrmian Water Festival - Beach" PosX="-224677.6113986969" PosY="-8175.0" PosZ="176188.19868564606" />
+		<BookMark BookMarkName="3: Terrmian Water Festival - Beach" PosX="-225882.3173046112" PosY="-8175.0" PosZ="168959.96325016022" />
+		<BookMark BookMarkName="4: Terrmian Water Festival - Beach" PosX="-223774.08196926117" PosY="-8175.0" PosZ="168357.61029720306" />
+		<BookMark BookMarkName="5: Terrmian Water Festival - Beach" PosX="-214738.78767490387" PosY="-8175.0" PosZ="175284.66925621033" />
 	</WorldmapBookMark>

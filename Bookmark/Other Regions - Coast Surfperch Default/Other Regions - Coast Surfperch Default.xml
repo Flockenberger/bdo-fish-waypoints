@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Other%20Regions%20-%20Coast%20Surfperch%20Default
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Other Regions - Coast Surfperch Default" PosX="834258.8798999786" PosY="0" PosZ="-781854.1729927063" />
-		<BookMark BookMarkName="1: Other Regions - Coast Surfperch Default" PosX="473449.4610786438" PosY="0" PosZ="538503.4998893738" />
-		<BookMark BookMarkName="2: Other Regions - Coast Surfperch Default" PosX="1175491.827750206" PosY="0" PosZ="530070.5585479736" />
+		<BookMark BookMarkName="1: Other Regions - Coast Surfperch Default" PosX="839077.7035236359" PosY="0.0" PosZ="-665600.0530719757" />
+		<BookMark BookMarkName="2: Other Regions - Coast Surfperch Default" PosX="1284818.8887119293" PosY="-8175.0" PosZ="122277.60939598083" />
+		<BookMark BookMarkName="3: Other Regions - Coast Surfperch Default" PosX="1195670.6516742706" PosY="-8175.0" PosZ="485797.61650562286" />
+		<BookMark BookMarkName="4: Other Regions - Coast Surfperch Default" PosX="1169769.474697113" PosY="-8175.0" PosZ="528263.4996891022" />
+		<BookMark BookMarkName="5: Other Regions - Coast Surfperch Default" PosX="1231811.8288516998" PosY="0.0" PosZ="377976.4379262924" />
 	</WorldmapBookMark>

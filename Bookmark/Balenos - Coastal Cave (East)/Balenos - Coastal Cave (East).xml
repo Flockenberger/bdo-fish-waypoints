@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Coastal%20Cave%20(East)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Coastal Cave (East)" PosX="-24696.431016921997" PosY="0" PosZ="109025.84443092346" />
-		<BookMark BookMarkName="1: Balenos - Coastal Cave (East)" PosX="-14757.607293128967" PosY="0" PosZ="97882.31480121613" />
-		<BookMark BookMarkName="2: Balenos - Coastal Cave (East)" PosX="-16865.842628479004" PosY="0" PosZ="103303.4913778305" />
-		<BookMark BookMarkName="3: Balenos - Coastal Cave (East)" PosX="-18672.901487350464" PosY="0" PosZ="89750.54993629456" />
+		<BookMark BookMarkName="1: Balenos - Coastal Cave (East)" PosX="-15962.313199043274" PosY="-8175.0" PosZ="97581.13832473755" />
+		<BookMark BookMarkName="2: Balenos - Coastal Cave (East)" PosX="-19576.430916786194" PosY="-8175.0" PosZ="105712.90318965912" />
+		<BookMark BookMarkName="3: Balenos - Coastal Cave (East)" PosX="-17468.195581436157" PosY="-8175.0" PosZ="93665.84413051605" />
+		<BookMark BookMarkName="4: Balenos - Coastal Cave (East)" PosX="-23792.901587486267" PosY="-8175.0" PosZ="94870.55003643036" />
+		<BookMark BookMarkName="5: Balenos - Coastal Cave (East)" PosX="-21082.313299179077" PosY="-8175.0" PosZ="103905.84433078766" />
 	</WorldmapBookMark>

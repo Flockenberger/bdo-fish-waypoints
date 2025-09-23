@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Biraghi%20Den%20Sandeel%20Default
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Biraghi Den Sandeel Default" PosX="-74691.72611236572" PosY="0" PosZ="-18974.15807247162" />
-		<BookMark BookMarkName="1: Balenos - Biraghi Den Sandeel Default" PosX="-74992.9025888443" PosY="0" PosZ="-18672.981595993042" />
-		<BookMark BookMarkName="2: Balenos - Biraghi Den Sandeel Default" PosX="-74992.9025888443" PosY="0" PosZ="-17468.275690078735" />
-		<BookMark BookMarkName="3: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0" PosZ="-12649.452066421509" />
+		<BookMark BookMarkName="1: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0.0" PosZ="-16865.922737121582" />
+		<BookMark BookMarkName="2: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0.0" PosZ="-17468.275690078735" />
+		<BookMark BookMarkName="3: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0.0" PosZ="-17468.275690078735" />
+		<BookMark BookMarkName="4: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0.0" PosZ="-19275.334548950195" />
+		<BookMark BookMarkName="5: Balenos - Biraghi Den Sandeel Default" PosX="-73788.19668292999" PosY="0.0" PosZ="-19576.511025428772" />
 	</WorldmapBookMark>

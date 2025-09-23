@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Biraghi%20Den%20(Bandit%20Zone)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Biraghi Den (Bandit Zone)" PosX="-102098.7854719162" PosY="0" PosZ="-30418.86417865753" />
-		<BookMark BookMarkName="1: Balenos - Biraghi Den (Bandit Zone)" PosX="-106616.43261909485" PosY="0" PosZ="-31623.57008457184" />
-		<BookMark BookMarkName="2: Balenos - Biraghi Den (Bandit Zone)" PosX="-103905.84433078766" PosY="0" PosZ="-32225.92303752899" />
-		<BookMark BookMarkName="3: Balenos - Biraghi Den (Bandit Zone)" PosX="-105712.90318965912" PosY="0" PosZ="-32225.92303752899" />
+		<BookMark BookMarkName="1: Balenos - Biraghi Den (Bandit Zone)" PosX="-103303.4913778305" PosY="0.0" PosZ="-31623.57008457184" />
+		<BookMark BookMarkName="2: Balenos - Biraghi Den (Bandit Zone)" PosX="-103303.4913778305" PosY="0.0" PosZ="-32225.92303752899" />
+		<BookMark BookMarkName="3: Balenos - Biraghi Den (Bandit Zone)" PosX="-104207.02080726624" PosY="0.0" PosZ="-31322.39360809326" />
+		<BookMark BookMarkName="4: Balenos - Biraghi Den (Bandit Zone)" PosX="-104809.37376022339" PosY="0.0" PosZ="-31021.217131614685" />
+		<BookMark BookMarkName="5: Balenos - Biraghi Den (Bandit Zone)" PosX="-102701.13842487335" PosY="0.0" PosZ="-30117.687702178955" />
 	</WorldmapBookMark>

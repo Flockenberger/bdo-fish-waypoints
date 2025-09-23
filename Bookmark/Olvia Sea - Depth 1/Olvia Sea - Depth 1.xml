@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Olvia%20Sea%20-%20Depth%201
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Olvia Sea - Depth 1" PosX="-244254.08236980438" PosY="0" PosZ="286418.7890768051" />
-		<BookMark BookMarkName="1: Olvia Sea - Depth 1" PosX="-202691.7286157608" PosY="0" PosZ="237025.84693431854" />
-		<BookMark BookMarkName="2: Olvia Sea - Depth 1" PosX="-234616.43512248993" PosY="0" PosZ="214437.6111984253" />
-		<BookMark BookMarkName="3: Olvia Sea - Depth 1" PosX="-194861.1402273178" PosY="0" PosZ="242145.84703445435" />
+		<BookMark BookMarkName="1: Olvia Sea - Depth 1" PosX="-260216.43562316895" PosY="-8175.0" PosZ="278889.3771648407" />
+		<BookMark BookMarkName="2: Olvia Sea - Depth 1" PosX="-221665.84663391113" PosY="-8175.0" PosZ="222870.55253982544" />
+		<BookMark BookMarkName="3: Olvia Sea - Depth 1" PosX="-253891.72961711884" PosY="-8175.0" PosZ="218955.25834560394" />
+		<BookMark BookMarkName="4: Olvia Sea - Depth 1" PosX="-181609.37526226044" PosY="-8175.0" PosZ="262927.02391147614" />
+		<BookMark BookMarkName="5: Olvia Sea - Depth 1" PosX="-172272.90449142456" PosY="-8175.0" PosZ="299068.20108890533" />
 	</WorldmapBookMark>

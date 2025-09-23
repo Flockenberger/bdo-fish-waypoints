@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Epheria%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Epheria Sea - Coast" PosX="-392734.0852737427" PosY="0" PosZ="39755.25484085083" />
-		<BookMark BookMarkName="1: Epheria Sea - Coast" PosX="-380687.0262145996" PosY="0" PosZ="87039.96164798737" />
-		<BookMark BookMarkName="2: Epheria Sea - Coast" PosX="-378277.614402771" PosY="0" PosZ="103604.66785430908" />
+		<BookMark BookMarkName="1: Epheria Sea - Coast" PosX="-348159.96675491333" PosY="-8175.0" PosZ="112037.60919570923" />
+		<BookMark BookMarkName="2: Epheria Sea - Coast" PosX="-379181.1438322067" PosY="-8175.0" PosZ="86738.78517150879" />
+		<BookMark BookMarkName="3: Epheria Sea - Coast" PosX="-389722.3205089569" PosY="-8175.0" PosZ="110832.90328979492" />
+		<BookMark BookMarkName="4: Epheria Sea - Coast" PosX="-389421.14403247833" PosY="-8175.0" PosZ="112037.60919570923" />
+		<BookMark BookMarkName="5: Epheria Sea - Coast" PosX="-393938.791179657" PosY="-8175.0" PosZ="91256.43231868744" />
 	</WorldmapBookMark>

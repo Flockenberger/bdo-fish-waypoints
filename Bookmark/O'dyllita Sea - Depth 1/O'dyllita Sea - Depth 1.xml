@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/O'dyllita%20Sea%20-%20Depth%201
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: O'dyllita Sea - Depth 1" PosX="-81317.60859489441" PosY="0" PosZ="-735774.1720914841" />
-		<BookMark BookMarkName="1: O'dyllita Sea - Depth 1" PosX="-350870.5550432205" PosY="0" PosZ="-622832.9934120178" />
+		<BookMark BookMarkName="1: O'dyllita Sea - Depth 1" PosX="-347256.4373254776" PosY="-8175.0" PosZ="-600244.7576761246" />
+		<BookMark BookMarkName="2: O'dyllita Sea - Depth 1" PosX="-358701.1434316635" PosY="-8175.0" PosZ="-630964.7582769394" />
+		<BookMark BookMarkName="3: O'dyllita Sea - Depth 1" PosX="-342437.6137018204" PosY="-8175.0" PosZ="-636385.9348535538" />
+		<BookMark BookMarkName="4: O'dyllita Sea - Depth 1" PosX="-212329.37586307526" PosY="-8175.0" PosZ="-632771.8171358109" />
+		<BookMark BookMarkName="5: O'dyllita Sea - Depth 1" PosX="-214437.6111984253" PosY="-8175.0" PosZ="-643312.993812561" />
 	</WorldmapBookMark>

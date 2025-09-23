@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Sausan%20Islands%20-%20Depth%203
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Sausan Islands - Depth 3" PosX="184018.86718273163" PosY="0" PosZ="219557.6112985611" />
-		<BookMark BookMarkName="1: Sausan Islands - Depth 3" PosX="268348.2805967331" PosY="0" PosZ="236724.67045783997" />
-		<BookMark BookMarkName="2: Sausan Islands - Depth 3" PosX="102098.86558055878" PosY="0" PosZ="194559.96375083923" />
+		<BookMark BookMarkName="1: Sausan Islands - Depth 3" PosX="180103.57298851013" PosY="-8175.0" PosZ="223472.9054927826" />
+		<BookMark BookMarkName="2: Sausan Islands - Depth 3" PosX="301176.51653289795" PosY="-8175.0" PosZ="221665.84663391113" />
+		<BookMark BookMarkName="3: Sausan Islands - Depth 3" PosX="100291.80672168732" PosY="-8175.0" PosZ="188837.61069774628" />
+		<BookMark BookMarkName="4: Sausan Islands - Depth 3" PosX="123181.21893405914" PosY="-8175.0" PosZ="210823.49348068237" />
+		<BookMark BookMarkName="5: Sausan Islands - Depth 3" PosX="102701.21853351593" PosY="-8175.0" PosZ="189741.140127182" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Altar%20Imp
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Altar Imp" PosX="-49091.72561168671" PosY="0" PosZ="-55416.511726379395" />
-		<BookMark BookMarkName="1: Balenos - Altar Imp" PosX="-50898.78447055817" PosY="0" PosZ="-52404.74696159363" />
-		<BookMark BookMarkName="2: Balenos - Altar Imp" PosX="-44875.25494098663" PosY="0" PosZ="-50296.51162624359" />
-		<BookMark BookMarkName="3: Balenos - Altar Imp" PosX="-49995.25504112244" PosY="0" PosZ="-48790.62924385071" />
+		<BookMark BookMarkName="1: Balenos - Altar Imp" PosX="-46381.13732337952" PosY="0.0" PosZ="-53609.452867507935" />
+		<BookMark BookMarkName="2: Balenos - Altar Imp" PosX="-47284.66675281525" PosY="0.0" PosZ="-53007.09991455078" />
+		<BookMark BookMarkName="3: Balenos - Altar Imp" PosX="-46381.13732337952" PosY="0.0" PosZ="-52705.923438072205" />
+		<BookMark BookMarkName="4: Balenos - Altar Imp" PosX="-45176.43141746521" PosY="0.0" PosZ="-53609.452867507935" />
+		<BookMark BookMarkName="5: Balenos - Altar Imp" PosX="-51199.96094703674" PosY="0.0" PosZ="-50597.68810272217" />
 	</WorldmapBookMark>

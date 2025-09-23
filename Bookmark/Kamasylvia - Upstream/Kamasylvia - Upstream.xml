@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Kamasylvia%20-%20Upstream
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Kamasylvia - Upstream" PosX="-312922.31900691986" PosY="0" PosZ="-446343.5781955719" />
-		<BookMark BookMarkName="1: Kamasylvia - Upstream" PosX="-583378.7948846817" PosY="0" PosZ="-428875.34255981445" />
-		<BookMark BookMarkName="2: Kamasylvia - Upstream" PosX="-520734.08777713776" PosY="0" PosZ="-310512.9873037338" />
-		<BookMark BookMarkName="3: Kamasylvia - Upstream" PosX="-333101.1429309845" PosY="0" PosZ="-373157.6944112778" />
+		<BookMark BookMarkName="1: Kamasylvia - Upstream" PosX="-308103.49538326263" PosY="0.0" PosZ="-445138.8722896576" />
+		<BookMark BookMarkName="2: Kamasylvia - Upstream" PosX="-583981.1478376389" PosY="-8175.0" PosZ="-437308.2839012146" />
+		<BookMark BookMarkName="3: Kamasylvia - Upstream" PosX="-532781.1468362808" PosY="0.0" PosZ="-317440.0462627411" />
+		<BookMark BookMarkName="4: Kamasylvia - Upstream" PosX="-336112.90769577026" PosY="0.0" PosZ="-371651.8120288849" />
+		<BookMark BookMarkName="5: Kamasylvia - Upstream" PosX="-284611.73021793365" PosY="0.0" PosZ="-365327.1060228348" />
 	</WorldmapBookMark>

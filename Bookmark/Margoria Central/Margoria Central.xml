@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Margoria%20Central
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Margoria Central" PosX="-1033938.8036966324" PosY="0" PosZ="568319.9710607529" />
-		<BookMark BookMarkName="1: Margoria Central" PosX="104809.45386886597" PosY="0" PosZ="1178503.5124063492" />
-		<BookMark BookMarkName="2: Margoria Central" PosX="86437.68880367279" PosY="0" PosZ="1156517.629623413" />
-		<BookMark BookMarkName="3: Margoria Central" PosX="-1036348.215508461" PosY="0" PosZ="620724.6779680252" />
+		<BookMark BookMarkName="1: Margoria Central" PosX="247567.1037197113" PosY="-8175.0" PosZ="1258315.278673172" />
+		<BookMark BookMarkName="2: Margoria Central" PosX="-1326079.9858808517" PosY="-8175.0" PosZ="413515.26215076447" />
+		<BookMark BookMarkName="3: Margoria Central" PosX="-893590.5656576157" PosY="-8175.0" PosZ="622832.9133033752" />
+		<BookMark BookMarkName="4: Margoria Central" PosX="-604159.9717617035" PosY="-8175.0" PosZ="811670.5640554428" />
+		<BookMark BookMarkName="5: Margoria Central" PosX="-208112.90519237518" PosY="-8175.0" PosZ="1204103.5129070282" />
 	</WorldmapBookMark>

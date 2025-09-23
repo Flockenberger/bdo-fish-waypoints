@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Duvencrune%20Hot%20Spring
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Duvencrune Hot Spring" PosX="-46682.31379985809" PosY="0" PosZ="-398456.5184354782" />
-		<BookMark BookMarkName="1: Drieghan - Duvencrune Hot Spring" PosX="-47585.84322929382" PosY="0" PosZ="-397552.9890060425" />
-		<BookMark BookMarkName="2: Drieghan - Duvencrune Hot Spring" PosX="-45778.78437042236" PosY="0" PosZ="-395143.57719421387" />
-		<BookMark BookMarkName="3: Drieghan - Duvencrune Hot Spring" PosX="-46079.96084690094" PosY="0" PosZ="-399360.04786491394" />
+		<BookMark BookMarkName="1: Drieghan - Duvencrune Hot Spring" PosX="-47284.66675281525" PosY="0.0" PosZ="-396348.2831001282" />
+		<BookMark BookMarkName="2: Drieghan - Duvencrune Hot Spring" PosX="-46983.49027633667" PosY="0.0" PosZ="-397251.8125295639" />
+		<BookMark BookMarkName="3: Drieghan - Duvencrune Hot Spring" PosX="-47284.66675281525" PosY="0.0" PosZ="-397251.8125295639" />
+		<BookMark BookMarkName="4: Drieghan - Duvencrune Hot Spring" PosX="-47585.84322929382" PosY="0.0" PosZ="-396649.45957660675" />
+		<BookMark BookMarkName="5: Drieghan - Duvencrune Hot Spring" PosX="-45778.78437042236" PosY="0.0" PosZ="-397854.16548252106" />
 	</WorldmapBookMark>

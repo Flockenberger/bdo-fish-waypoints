@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/North%20Kaia%20Lake%20%20Kaia%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: North Kaia Lake  Kaia River" PosX="-389722.3205089569" PosY="0" PosZ="-195463.57328891754" />
-		<BookMark BookMarkName="1: North Kaia Lake  Kaia River" PosX="-325270.5545425415" PosY="0" PosZ="-87943.57118606567" />
+		<BookMark BookMarkName="1: North Kaia Lake  Kaia River" PosX="-388216.438126564" PosY="0.0" PosZ="-174381.21993541718" />
+		<BookMark BookMarkName="2: North Kaia Lake  Kaia River" PosX="-321054.08387184143" PosY="0.0" PosZ="-82823.57108592987" />
+		<BookMark BookMarkName="3: North Kaia Lake  Kaia River" PosX="-323463.49568367004" PosY="0.0" PosZ="-96075.33605098724" />
+		<BookMark BookMarkName="4: North Kaia Lake  Kaia River" PosX="-326776.4369249344" PosY="0.0" PosZ="-88545.92413902283" />
+		<BookMark BookMarkName="5: North Kaia Lake  Kaia River" PosX="-331896.4370250702" PosY="0.0" PosZ="-88847.1006155014" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Demi%20River%20(Neutral%20Zone)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Demi River (Neutral Zone)" PosX="-137336.43321990967" PosY="0" PosZ="-44875.33504962921" />
-		<BookMark BookMarkName="1: Demi River (Neutral Zone)" PosX="-95472.90298938751" PosY="0" PosZ="-98785.92433929443" />
-		<BookMark BookMarkName="2: Demi River (Neutral Zone)" PosX="-94569.37355995178" PosY="0" PosZ="-86437.68880367279" />
-		<BookMark BookMarkName="3: Demi River (Neutral Zone)" PosX="-115952.90338993073" PosY="0" PosZ="-53308.27639102936" />
+		<BookMark BookMarkName="1: Demi River (Neutral Zone)" PosX="-87039.96164798737" PosY="0.0" PosZ="-66861.21783256531" />
+		<BookMark BookMarkName="2: Demi River (Neutral Zone)" PosX="-103905.84433078766" PosY="0.0" PosZ="-59030.629444122314" />
+		<BookMark BookMarkName="3: Demi River (Neutral Zone)" PosX="-85232.9027891159" PosY="0.0" PosZ="-75595.33565044403" />
+		<BookMark BookMarkName="4: Demi River (Neutral Zone)" PosX="-155407.02180862427" PosY="0.0" PosZ="-42465.9232378006" />
+		<BookMark BookMarkName="5: Demi River (Neutral Zone)" PosX="-75896.43201828003" PosY="0.0" PosZ="-99388.27729225159" />
 	</WorldmapBookMark>

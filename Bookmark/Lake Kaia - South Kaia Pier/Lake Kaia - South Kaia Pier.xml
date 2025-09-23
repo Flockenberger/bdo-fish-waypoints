@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Lake%20Kaia%20-%20South%20Kaia%20Pier
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Lake Kaia - South Kaia Pier" PosX="-326174.08397197723" PosY="0" PosZ="-106315.33625125885" />
-		<BookMark BookMarkName="1: Lake Kaia - South Kaia Pier" PosX="-325571.7310190201" PosY="0" PosZ="-105712.9832983017" />
-		<BookMark BookMarkName="2: Lake Kaia - South Kaia Pier" PosX="-322258.78977775574" PosY="0" PosZ="-103002.3950099945" />
-		<BookMark BookMarkName="3: Lake Kaia - South Kaia Pier" PosX="-328884.6722602844" PosY="0" PosZ="-109327.10101604462" />
+		<BookMark BookMarkName="1: Lake Kaia - South Kaia Pier" PosX="-324065.8486366272" PosY="0.0" PosZ="-102098.86558055878" />
+		<BookMark BookMarkName="2: Lake Kaia - South Kaia Pier" PosX="-327378.78987789154" PosY="0.0" PosZ="-105712.9832983017" />
+		<BookMark BookMarkName="3: Lake Kaia - South Kaia Pier" PosX="-323162.31920719147" PosY="0.0" PosZ="-100894.15967464447" />
+		<BookMark BookMarkName="4: Lake Kaia - South Kaia Pier" PosX="-325571.7310190201" PosY="0.0" PosZ="-101496.51262760162" />
+		<BookMark BookMarkName="5: Lake Kaia - South Kaia Pier" PosX="-323764.6721601486" PosY="0.0" PosZ="-104809.45386886597" />
 	</WorldmapBookMark>

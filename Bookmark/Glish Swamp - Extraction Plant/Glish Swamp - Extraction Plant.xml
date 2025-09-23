@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Glish%20Swamp%20-%20Extraction%20Plant
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Glish Swamp - Extraction Plant" PosX="-21383.489775657654" PosY="0" PosZ="-86437.68880367279" />
-		<BookMark BookMarkName="1: Glish Swamp - Extraction Plant" PosX="-10541.136622428894" PosY="0" PosZ="-75896.51212692261" />
-		<BookMark BookMarkName="2: Glish Swamp - Extraction Plant" PosX="-30117.607593536377" PosY="0" PosZ="-88545.92413902283" />
-		<BookMark BookMarkName="3: Glish Swamp - Extraction Plant" PosX="-28611.725211143494" PosY="0" PosZ="-78607.1004152298" />
+		<BookMark BookMarkName="1: Glish Swamp - Extraction Plant" PosX="-25298.78396987915" PosY="0.0" PosZ="-90654.15947437286" />
+		<BookMark BookMarkName="2: Glish Swamp - Extraction Plant" PosX="-14155.254340171814" PosY="0.0" PosZ="-87642.3947095871" />
+		<BookMark BookMarkName="3: Glish Swamp - Extraction Plant" PosX="-13251.724910736084" PosY="0.0" PosZ="-82221.21813297272" />
+		<BookMark BookMarkName="4: Glish Swamp - Extraction Plant" PosX="-2710.548233985901" PosY="0.0" PosZ="-84028.27699184418" />
+		<BookMark BookMarkName="5: Glish Swamp - Extraction Plant" PosX="-6927.018904685974" PosY="0.0" PosZ="-75595.33565044403" />
 	</WorldmapBookMark>

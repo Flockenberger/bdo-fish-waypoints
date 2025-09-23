@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/O'draxxia%20(Leaf%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: O'draxxia (Leaf Spot)" PosX="-150889.37466144562" PosY="0" PosZ="-583077.6985168457" />
-		<BookMark BookMarkName="1: O'draxxia (Leaf Spot)" PosX="-155708.19828510284" PosY="0" PosZ="-590607.1104288101" />
-		<BookMark BookMarkName="2: O'draxxia (Leaf Spot)" PosX="-150287.02170848846" PosY="0" PosZ="-589703.5809993744" />
-		<BookMark BookMarkName="3: O'draxxia (Leaf Spot)" PosX="-149985.8452320099" PosY="0" PosZ="-585487.1103286743" />
+		<BookMark BookMarkName="1: O'draxxia (Leaf Spot)" PosX="-150588.19818496704" PosY="0.0" PosZ="-585788.2868051529" />
+		<BookMark BookMarkName="2: O'draxxia (Leaf Spot)" PosX="-149082.31580257416" PosY="0.0" PosZ="-589703.5809993744" />
+		<BookMark BookMarkName="3: O'draxxia (Leaf Spot)" PosX="-150287.02170848846" PosY="0.0" PosZ="-586390.63975811" />
+		<BookMark BookMarkName="4: O'draxxia (Leaf Spot)" PosX="-147877.60989665985" PosY="0.0" PosZ="-586390.63975811" />
+		<BookMark BookMarkName="5: O'draxxia (Leaf Spot)" PosX="-151792.90409088135" PosY="0.0" PosZ="-584282.40442276" />
 	</WorldmapBookMark>

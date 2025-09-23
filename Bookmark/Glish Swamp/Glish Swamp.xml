@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Glish%20Swamp
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Glish Swamp" PosX="60536.5118265152" PosY="0" PosZ="-72884.74736213684" />
-		<BookMark BookMarkName="1: Glish Swamp" PosX="-5722.3129987716675" PosY="0" PosZ="-136734.1603755951" />
-		<BookMark BookMarkName="2: Glish Swamp" PosX="-26804.666352272034" PosY="0" PosZ="-108122.39511013031" />
+		<BookMark BookMarkName="1: Glish Swamp" PosX="46682.39390850067" PosY="0.0" PosZ="-120470.63064575195" />
+		<BookMark BookMarkName="2: Glish Swamp" PosX="9336.510825157166" PosY="0.0" PosZ="-120771.80712223053" />
+		<BookMark BookMarkName="3: Glish Swamp" PosX="-30719.96054649353" PosY="0.0" PosZ="-104508.27739238739" />
+		<BookMark BookMarkName="4: Glish Swamp" PosX="-29816.4311170578" PosY="0.0" PosZ="-104809.45386886597" />
+		<BookMark BookMarkName="5: Glish Swamp" PosX="48489.45276737213" PosY="0.0" PosZ="-80112.98279762268" />
 	</WorldmapBookMark>

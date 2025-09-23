@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Elsana%20Sea%20-%20Depth%204
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Elsana Sea - Depth 4" PosX="-552658.7942838669" PosY="0" PosZ="-623435.346364975" />
-		<BookMark BookMarkName="1: Elsana Sea - Depth 4" PosX="-387915.26165008545" PosY="0" PosZ="-543322.4036216736" />
+		<BookMark BookMarkName="1: Elsana Sea - Depth 4" PosX="-759868.2101011276" PosY="-8175.0" PosZ="-342437.69381046295" />
+		<BookMark BookMarkName="2: Elsana Sea - Depth 4" PosX="-387614.0851736069" PosY="0.0" PosZ="-543924.7565746307" />
+		<BookMark BookMarkName="3: Elsana Sea - Depth 4" PosX="-743303.5038948059" PosY="-8175.0" PosZ="-345148.28209877014" />
+		<BookMark BookMarkName="4: Elsana Sea - Depth 4" PosX="-387915.26165008545" PosY="0.0" PosZ="-543021.227145195" />
+		<BookMark BookMarkName="5: Elsana Sea - Depth 4" PosX="-782155.2693605423" PosY="-8175.0" PosZ="-383397.6946115494" />
 	</WorldmapBookMark>

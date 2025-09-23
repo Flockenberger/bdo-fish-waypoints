@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Velia%20Warehouse
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Velia Warehouse" PosX="8432.981395721436" PosY="0" PosZ="88545.84403038025" />
-		<BookMark BookMarkName="1: Velia Warehouse" PosX="5421.216630935669" PosY="0" PosZ="87341.13812446594" />
-		<BookMark BookMarkName="2: Velia Warehouse" PosX="5722.393107414246" PosY="0" PosZ="84630.54983615875" />
-		<BookMark BookMarkName="3: Velia Warehouse" PosX="9637.687301635742" PosY="0" PosZ="87943.4910774231" />
+		<BookMark BookMarkName="1: Velia Warehouse" PosX="5421.216630935669" PosY="-8175.0" PosZ="86437.60869503021" />
+		<BookMark BookMarkName="2: Velia Warehouse" PosX="4818.863677978516" PosY="-8175.0" PosZ="87039.96164798737" />
+		<BookMark BookMarkName="3: Velia Warehouse" PosX="4517.687201499939" PosY="-8175.0" PosZ="86136.43221855164" />
+		<BookMark BookMarkName="4: Velia Warehouse" PosX="9336.510825157166" PosY="-8175.0" PosZ="87642.31460094452" />
+		<BookMark BookMarkName="5: Velia Warehouse" PosX="6927.099013328552" PosY="-8175.0" PosZ="86136.43221855164" />
 	</WorldmapBookMark>

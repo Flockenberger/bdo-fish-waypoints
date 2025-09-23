@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Surfperch%20Dominion%20(Archipelago)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Surfperch Dominion (Archipelago)" PosX="131614.1602754593" PosY="0" PosZ="336414.08417224884" />
-		<BookMark BookMarkName="1: Surfperch Dominion (Archipelago)" PosX="-70174.07896518707" PosY="0" PosZ="396348.2029914856" />
-		<BookMark BookMarkName="2: Surfperch Dominion (Archipelago)" PosX="363218.87068748474" PosY="0" PosZ="-48790.62924385071" />
-		<BookMark BookMarkName="3: Surfperch Dominion (Archipelago)" PosX="228291.8092250824" PosY="0" PosZ="541515.2646541595" />
+		<BookMark BookMarkName="1: Surfperch Dominion (Archipelago)" PosX="157214.1607761383" PosY="-8175.0" PosZ="361411.7317199707" />
+		<BookMark BookMarkName="2: Surfperch Dominion (Archipelago)" PosX="-62644.667053222656" PosY="-8175.0" PosZ="393035.26175022125" />
+		<BookMark BookMarkName="3: Surfperch Dominion (Archipelago)" PosX="347256.5174341202" PosY="-8175.0" PosZ="-70174.15907382965" />
+		<BookMark BookMarkName="4: Surfperch Dominion (Archipelago)" PosX="198174.16157722473" PosY="-8175.0" PosZ="521336.4407300949" />
+		<BookMark BookMarkName="5: Surfperch Dominion (Archipelago)" PosX="316837.69330978394" PosY="-8175.0" PosZ="432489.3801689148" />
 	</WorldmapBookMark>

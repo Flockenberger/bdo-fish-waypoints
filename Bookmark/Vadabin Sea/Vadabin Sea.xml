@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Vadabin%20Sea
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Vadabin Sea" PosX="-992677.6264190674" PosY="0" PosZ="1167058.8063001633" />
-		<BookMark BookMarkName="1: Vadabin Sea" PosX="-1001411.7442369461" PosY="0" PosZ="1447454.1059017181" />
-		<BookMark BookMarkName="2: Vadabin Sea" PosX="-990268.2146072388" PosY="0" PosZ="1379388.2222175598" />
-		<BookMark BookMarkName="3: Vadabin Sea" PosX="-744508.2098007202" PosY="0" PosZ="1608884.6972942352" />
+		<BookMark BookMarkName="1: Vadabin Sea" PosX="-781251.7399311066" PosY="-8175.0" PosZ="1576056.4613580704" />
+		<BookMark BookMarkName="2: Vadabin Sea" PosX="-1626352.9329299927" PosY="0.0" PosZ="933044.6840763092" />
+		<BookMark BookMarkName="3: Vadabin Sea" PosX="-1612498.8150119781" PosY="0.0" PosZ="957439.9786710739" />
+		<BookMark BookMarkName="4: Vadabin Sea" PosX="-826729.3878793716" PosY="-8175.0" PosZ="1639002.344942093" />
+		<BookMark BookMarkName="5: Vadabin Sea" PosX="-906842.330622673" PosY="-8175.0" PosZ="1368244.6925878525" />
 	</WorldmapBookMark>

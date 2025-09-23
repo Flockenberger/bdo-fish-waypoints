@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Starry%20Midnight%20Port%20-%20Dock
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Starry Midnight Port - Dock" PosX="-327077.61340141296" PosY="0" PosZ="-615905.9344530106" />
-		<BookMark BookMarkName="1: Starry Midnight Port - Dock" PosX="-324668.20158958435" PosY="0" PosZ="-618917.6992177963" />
-		<BookMark BookMarkName="2: Starry Midnight Port - Dock" PosX="-327077.61340141296" PosY="0" PosZ="-615303.5815000534" />
-		<BookMark BookMarkName="3: Starry Midnight Port - Dock" PosX="-326776.4369249344" PosY="0" PosZ="-616207.1109294891" />
+		<BookMark BookMarkName="1: Starry Midnight Port - Dock" PosX="-327679.9663543701" PosY="-8175.0" PosZ="-617411.8168354034" />
+		<BookMark BookMarkName="2: Starry Midnight Port - Dock" PosX="-328583.49578380585" PosY="-8175.0" PosZ="-616809.4638824463" />
+		<BookMark BookMarkName="3: Starry Midnight Port - Dock" PosX="-327077.61340141296" PosY="-8175.0" PosZ="-617411.8168354034" />
+		<BookMark BookMarkName="4: Starry Midnight Port - Dock" PosX="-326174.08397197723" PosY="-8175.0" PosZ="-617411.8168354034" />
+		<BookMark BookMarkName="5: Starry Midnight Port - Dock" PosX="-326174.08397197723" PosY="-8175.0" PosZ="-618014.1697883606" />
 	</WorldmapBookMark>

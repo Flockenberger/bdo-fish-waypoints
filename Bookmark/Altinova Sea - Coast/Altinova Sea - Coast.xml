@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Altinova%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Altinova Sea - Coast" PosX="405684.75387096405" PosY="0" PosZ="-32828.275990486145" />
-		<BookMark BookMarkName="1: Altinova Sea - Coast" PosX="405082.4009180069" PosY="0" PosZ="-162635.3373527527" />
-		<BookMark BookMarkName="2: Altinova Sea - Coast" PosX="341835.3408575058" PosY="0" PosZ="-56922.39410877228" />
-		<BookMark BookMarkName="3: Altinova Sea - Coast" PosX="360809.4588756561" PosY="0" PosZ="-25298.86407852173" />
+		<BookMark BookMarkName="1: Altinova Sea - Coast" PosX="412009.45987701416" PosY="-8175.0" PosZ="-75294.15917396545" />
+		<BookMark BookMarkName="2: Altinova Sea - Coast" PosX="398757.6949119568" PosY="-8175.0" PosZ="-133421.21913433075" />
+		<BookMark BookMarkName="3: Altinova Sea - Coast" PosX="385204.75347042084" PosY="-8175.0" PosZ="-80715.33575057983" />
+		<BookMark BookMarkName="4: Altinova Sea - Coast" PosX="349364.7527694702" PosY="-8175.0" PosZ="-3915.3342485427856" />
+		<BookMark BookMarkName="5: Altinova Sea - Coast" PosX="388818.87118816376" PosY="-8175.0" PosZ="-42767.099714279175" />
 	</WorldmapBookMark>

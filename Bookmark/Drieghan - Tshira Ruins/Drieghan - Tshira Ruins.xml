@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Tshira%20Ruins
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Tshira Ruins" PosX="128903.5719871521" PosY="0" PosZ="-284611.81032657623" />
-		<BookMark BookMarkName="1: Drieghan - Tshira Ruins" PosX="109025.92453956604" PosY="0" PosZ="-246964.75076675415" />
-		<BookMark BookMarkName="2: Drieghan - Tshira Ruins" PosX="70475.33555030823" PosY="0" PosZ="-254192.98620224" />
+		<BookMark BookMarkName="1: Drieghan - Tshira Ruins" PosX="94870.63014507294" PosY="0.0" PosZ="-276178.8689851761" />
+		<BookMark BookMarkName="2: Drieghan - Tshira Ruins" PosX="114748.277592659" PosY="0.0" PosZ="-240037.6918077469" />
+		<BookMark BookMarkName="3: Drieghan - Tshira Ruins" PosX="74089.45326805115" PosY="0.0" PosZ="-256602.3980140686" />
+		<BookMark BookMarkName="4: Drieghan - Tshira Ruins" PosX="75595.33565044403" PosY="0.0" PosZ="-255397.6921081543" />
+		<BookMark BookMarkName="5: Drieghan - Tshira Ruins" PosX="73788.27679157257" PosY="0.0" PosZ="-255698.86858463287" />
 	</WorldmapBookMark>

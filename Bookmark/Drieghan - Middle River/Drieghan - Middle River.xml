@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Middle%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Middle River" PosX="-79811.72621250153" PosY="0" PosZ="-391529.45947647095" />
-		<BookMark BookMarkName="1: Drieghan - Middle River" PosX="87040.04175662994" PosY="0" PosZ="-369844.7531700134" />
-		<BookMark BookMarkName="2: Drieghan - Middle River" PosX="50296.51162624359" PosY="0" PosZ="-234616.5152311325" />
-		<BookMark BookMarkName="3: Drieghan - Middle River" PosX="13552.981495857239" PosY="0" PosZ="-458992.9902076721" />
+		<BookMark BookMarkName="1: Drieghan - Middle River" PosX="-134023.49197864532" PosY="0.0" PosZ="-462305.93144893646" />
+		<BookMark BookMarkName="2: Drieghan - Middle River" PosX="101195.33615112305" PosY="0.0" PosZ="-366832.98840522766" />
+		<BookMark BookMarkName="3: Drieghan - Middle River" PosX="52404.74696159363" PosY="0.0" PosZ="-237628.27999591827" />
+		<BookMark BookMarkName="4: Drieghan - Middle River" PosX="8734.157872200012" PosY="0.0" PosZ="-494832.99090862274" />
+		<BookMark BookMarkName="5: Drieghan - Middle River" PosX="-62945.84352970123" PosY="0.0" PosZ="-245157.6919078827" />
 	</WorldmapBookMark>

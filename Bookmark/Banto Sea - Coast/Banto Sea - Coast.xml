@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Banto%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Banto Sea - Coast" PosX="-366531.7318201065" PosY="0" PosZ="278287.02421188354" />
-		<BookMark BookMarkName="1: Banto Sea - Coast" PosX="-235519.96455192566" PosY="0" PosZ="360207.0258140564" />
-		<BookMark BookMarkName="2: Banto Sea - Coast" PosX="-426465.85063934326" PosY="0" PosZ="316235.2602481842" />
-		<BookMark BookMarkName="3: Banto Sea - Coast" PosX="-339727.0254135132" PosY="0" PosZ="272564.6711587906" />
+		<BookMark BookMarkName="1: Banto Sea - Coast" PosX="-308103.49538326263" PosY="-8175.0" PosZ="337919.9665546417" />
+		<BookMark BookMarkName="2: Banto Sea - Coast" PosX="-271661.14172935486" PosY="-8175.0" PosZ="323463.49568367004" />
+		<BookMark BookMarkName="3: Banto Sea - Coast" PosX="-443632.90979862213" PosY="-8175.0" PosZ="312621.1425304413" />
+		<BookMark BookMarkName="4: Banto Sea - Coast" PosX="-334908.20178985596" PosY="-8175.0" PosZ="272564.6711587906" />
+		<BookMark BookMarkName="5: Banto Sea - Coast" PosX="-372254.08487319946" PosY="-8175.0" PosZ="341534.08427238464" />
 	</WorldmapBookMark>

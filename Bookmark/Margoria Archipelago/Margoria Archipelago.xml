@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Margoria%20Archipelago
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Margoria Archipelago" PosX="-1307708.2208156586" PosY="0" PosZ="1033336.4507436752" />
-		<BookMark BookMarkName="1: Margoria Archipelago" PosX="-824922.3290205002" PosY="0" PosZ="1312527.0444393158" />
-		<BookMark BookMarkName="2: Margoria Archipelago" PosX="-1215247.0425367355" PosY="0" PosZ="1052912.9217147827" />
-		<BookMark BookMarkName="3: Margoria Archipelago" PosX="313825.92854499817" PosY="0" PosZ="606268.2070970535" />
+		<BookMark BookMarkName="1: Margoria Archipelago" PosX="-904131.7423343658" PosY="-8175.0" PosZ="1334814.1036987305" />
+		<BookMark BookMarkName="2: Margoria Archipelago" PosX="325571.81112766266" PosY="-8175.0" PosZ="625543.5015916824" />
+		<BookMark BookMarkName="3: Margoria Archipelago" PosX="-550851.7354249954" PosY="-8175.0" PosZ="198475.25794506073" />
+		<BookMark BookMarkName="4: Margoria Archipelago" PosX="-511999.96995925903" PosY="-8175.0" PosZ="374061.1437320709" />
+		<BookMark BookMarkName="5: Margoria Archipelago" PosX="-293647.02451229095" PosY="-8175.0" PosZ="505675.2639532089" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Heidel%20-%20Demi%20River%20(Event%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Heidel - Demi River (Event Spot)" PosX="28912.98179626465" PosY="0" PosZ="-51501.2175321579" />
-		<BookMark BookMarkName="1: Heidel - Demi River (Event Spot)" PosX="31322.39360809326" PosY="0" PosZ="-48790.62924385071" />
-		<BookMark BookMarkName="2: Heidel - Demi River (Event Spot)" PosX="29214.158272743225" PosY="0" PosZ="-46983.57038497925" />
-		<BookMark BookMarkName="3: Heidel - Demi River (Event Spot)" PosX="40658.86437892914" PosY="0" PosZ="-54814.15877342224" />
+		<BookMark BookMarkName="1: Heidel - Demi River (Event Spot)" PosX="47585.9233379364" PosY="0.0" PosZ="-52705.923438072205" />
+		<BookMark BookMarkName="2: Heidel - Demi River (Event Spot)" PosX="38550.6290435791" PosY="0.0" PosZ="-55416.511726379395" />
+		<BookMark BookMarkName="3: Heidel - Demi River (Event Spot)" PosX="30720.04065513611" PosY="0.0" PosZ="-50597.68810272217" />
+		<BookMark BookMarkName="4: Heidel - Demi River (Event Spot)" PosX="45176.51152610779" PosY="0.0" PosZ="-55416.511726379395" />
+		<BookMark BookMarkName="5: Heidel - Demi River (Event Spot)" PosX="31021.217131614685" PosY="0.0" PosZ="-49091.805720329285" />
 	</WorldmapBookMark>

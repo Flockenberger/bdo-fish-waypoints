@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Mountain%20of%20Eternal%20Winter%20-%20Downstream
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Mountain of Eternal Winter - Downstream" PosX="162635.3373527527" PosY="0" PosZ="-389120.04766464233" />
-		<BookMark BookMarkName="1: Mountain of Eternal Winter - Downstream" PosX="-6324.665951728821" PosY="0" PosZ="-498145.9321498871" />
-		<BookMark BookMarkName="2: Mountain of Eternal Winter - Downstream" PosX="13552.981495857239" PosY="0" PosZ="-483087.10832595825" />
-		<BookMark BookMarkName="3: Mountain of Eternal Winter - Downstream" PosX="10240.040254592896" PosY="0" PosZ="-480376.52003765106" />
+		<BookMark BookMarkName="1: Mountain of Eternal Winter - Downstream" PosX="121976.51302814484" PosY="0.0" PosZ="-399360.04786491394" />
+		<BookMark BookMarkName="2: Mountain of Eternal Winter - Downstream" PosX="3011.8048191070557" PosY="0.0" PosZ="-501760.04986763" />
+		<BookMark BookMarkName="3: Mountain of Eternal Winter - Downstream" PosX="12047.099113464355" PosY="0.0" PosZ="-485797.69661426544" />
+		<BookMark BookMarkName="4: Mountain of Eternal Winter - Downstream" PosX="7529.451966285706" PosY="0.0" PosZ="-486098.873090744" />
+		<BookMark BookMarkName="5: Mountain of Eternal Winter - Downstream" PosX="11444.746160507202" PosY="0.0" PosZ="-478870.6376552582" />
 	</WorldmapBookMark>

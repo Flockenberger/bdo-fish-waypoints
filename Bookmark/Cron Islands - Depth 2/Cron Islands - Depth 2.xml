@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Cron%20Islands%20-%20Depth%202
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Cron Islands - Depth 2" PosX="-7830.548334121704" PosY="0" PosZ="292743.4950828552" />
-		<BookMark BookMarkName="1: Cron Islands - Depth 2" PosX="90352.98299789429" PosY="0" PosZ="210221.14052772522" />
-		<BookMark BookMarkName="2: Cron Islands - Depth 2" PosX="23190.628743171692" PosY="0" PosZ="200884.66975688934" />
-		<BookMark BookMarkName="3: Cron Islands - Depth 2" PosX="-903.4893751144409" PosY="0" PosZ="273769.3770647049" />
+		<BookMark BookMarkName="1: Cron Islands - Depth 2" PosX="55717.68820285797" PosY="-8175.0" PosZ="184319.96355056763" />
+		<BookMark BookMarkName="2: Cron Islands - Depth 2" PosX="29515.3347492218" PosY="-8175.0" PosZ="181609.37526226044" />
+		<BookMark BookMarkName="3: Cron Islands - Depth 2" PosX="52404.74696159363" PosY="-8175.0" PosZ="178898.78697395325" />
+		<BookMark BookMarkName="4: Cron Islands - Depth 2" PosX="48188.276290893555" PosY="-8175.0" PosZ="267444.6710586548" />
+		<BookMark BookMarkName="5: Cron Islands - Depth 2" PosX="69270.62964439392" PosY="-8175.0" PosZ="180404.66935634613" />
 	</WorldmapBookMark>

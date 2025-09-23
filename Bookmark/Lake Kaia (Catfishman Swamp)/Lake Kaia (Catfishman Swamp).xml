@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Lake%20Kaia%20(Catfishman%20Swamp)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Lake Kaia (Catfishman Swamp)" PosX="-330390.5546426773" PosY="0" PosZ="-104508.27739238739" />
-		<BookMark BookMarkName="1: Lake Kaia (Catfishman Swamp)" PosX="-353581.1433315277" PosY="0" PosZ="-115952.9834985733" />
-		<BookMark BookMarkName="2: Lake Kaia (Catfishman Swamp)" PosX="-335811.7312192917" PosY="0" PosZ="-109929.45396900177" />
-		<BookMark BookMarkName="3: Lake Kaia (Catfishman Swamp)" PosX="-349364.67266082764" PosY="0" PosZ="-102098.86558055878" />
+		<BookMark BookMarkName="1: Lake Kaia (Catfishman Swamp)" PosX="-344847.025513649" PosY="0.0" PosZ="-107218.86568069458" />
+		<BookMark BookMarkName="2: Lake Kaia (Catfishman Swamp)" PosX="-358399.96695518494" PosY="0.0" PosZ="-93967.1007156372" />
+		<BookMark BookMarkName="3: Lake Kaia (Catfishman Swamp)" PosX="-355990.5551433563" PosY="0.0" PosZ="-96978.86548042297" />
+		<BookMark BookMarkName="4: Lake Kaia (Catfishman Swamp)" PosX="-355087.0257139206" PosY="0.0" PosZ="-99689.45376873016" />
+		<BookMark BookMarkName="5: Lake Kaia (Catfishman Swamp)" PosX="-331595.2605485916" PosY="0.0" PosZ="-100291.80672168732" />
 	</WorldmapBookMark>

@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Mountain%20of%20Eternal%20Winter%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Mountain of Eternal Winter - Terrain" PosX="168960.0433588028" PosY="0" PosZ="-277684.75136756897" />
-		<BookMark BookMarkName="1: Mountain of Eternal Winter - Terrain" PosX="-82823.49097728729" PosY="0" PosZ="-536094.1681861877" />
-		<BookMark BookMarkName="2: Mountain of Eternal Winter - Terrain" PosX="5120.040154457092" PosY="0" PosZ="-480075.3435611725" />
+		<BookMark BookMarkName="1: Mountain of Eternal Winter - Terrain" PosX="196668.27919483185" PosY="0.0" PosZ="-512602.40302085876" />
+		<BookMark BookMarkName="2: Mountain of Eternal Winter - Terrain" PosX="3011.8048191070557" PosY="0.0" PosZ="-487303.5789966583" />
+		<BookMark BookMarkName="3: Mountain of Eternal Winter - Terrain" PosX="204498.86758327484" PosY="0.0" PosZ="-428272.9896068573" />
+		<BookMark BookMarkName="4: Mountain of Eternal Winter - Terrain" PosX="3614.157772064209" PosY="0.0" PosZ="-477063.5787963867" />
+		<BookMark BookMarkName="5: Mountain of Eternal Winter - Terrain" PosX="-6023.489475250244" PosY="0.0" PosZ="-484592.99070835114" />
 	</WorldmapBookMark>

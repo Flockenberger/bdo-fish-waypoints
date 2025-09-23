@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Eltro%20Sea%20-%20Depth%201
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Eltro Sea - Depth 1" PosX="274371.8101263046" PosY="0" PosZ="499651.7344236374" />
-		<BookMark BookMarkName="1: Eltro Sea - Depth 1" PosX="296357.6929092407" PosY="0" PosZ="419237.6152038574" />
-		<BookMark BookMarkName="2: Eltro Sea - Depth 1" PosX="10541.216731071472" PosY="0" PosZ="491218.79308223724" />
+		<BookMark BookMarkName="1: Eltro Sea - Depth 1" PosX="248771.8096256256" PosY="-8175.0" PosZ="511397.6170063019" />
+		<BookMark BookMarkName="2: Eltro Sea - Depth 1" PosX="334908.28189849854" PosY="-8175.0" PosZ="412310.55624485016" />
+		<BookMark BookMarkName="3: Eltro Sea - Depth 1" PosX="27708.27589035034" PosY="-8175.0" PosZ="534287.0292186737" />
+		<BookMark BookMarkName="4: Eltro Sea - Depth 1" PosX="8734.157872200012" PosY="-8175.0" PosZ="491821.1460351944" />
+		<BookMark BookMarkName="5: Eltro Sea - Depth 1" PosX="259915.33925533295" PosY="-8175.0" PosZ="556574.0884780884" />
 	</WorldmapBookMark>

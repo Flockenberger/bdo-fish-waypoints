@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Slippery%20Scallywags%20Wharf%20(Black%20Eye%20Crab%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="19275.334548950195" PosY="0" PosZ="593919.9715614319" />
-		<BookMark BookMarkName="1: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="16865.922737121582" PosY="0" PosZ="593317.6186084747" />
-		<BookMark BookMarkName="2: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="20178.863978385925" PosY="0" PosZ="601148.2069969177" />
-		<BookMark BookMarkName="3: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="23792.981696128845" PosY="0" PosZ="593016.4421319962" />
+		<BookMark BookMarkName="1: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="31322.39360809326" PosY="-8175.0" PosZ="594221.1480379105" />
+		<BookMark BookMarkName="2: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="29515.3347492218" PosY="-8175.0" PosZ="595124.6774673462" />
+		<BookMark BookMarkName="3: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="27407.099413871765" PosY="-8175.0" PosZ="597835.2657556534" />
+		<BookMark BookMarkName="4: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="25600.040555000305" PosY="-8175.0" PosZ="599039.9716615677" />
+		<BookMark BookMarkName="5: Slippery Scallywags Wharf (Black Eye Crab Spot)" PosX="22287.099313735962" PosY="-8175.0" PosZ="596028.2068967819" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos River" PosX="-72583.49077701569" PosY="0" PosZ="41863.49017620087" />
-		<BookMark BookMarkName="1: Balenos River" PosX="-78305.84383010864" PosY="0" PosZ="96075.25594234467" />
-		<BookMark BookMarkName="2: Balenos River" PosX="-71679.96134757996" PosY="0" PosZ="-9035.334348678589" />
-		<BookMark BookMarkName="3: Balenos River" PosX="-86738.78517150879" PosY="0" PosZ="50597.60799407959" />
+		<BookMark BookMarkName="1: Balenos River" PosX="-81618.78507137299" PosY="0.0" PosZ="59632.90228843689" />
+		<BookMark BookMarkName="2: Balenos River" PosX="-66861.13772392273" PosY="0.0" PosZ="21985.842728614807" />
+		<BookMark BookMarkName="3: Balenos River" PosX="-87943.4910774231" PosY="0.0" PosZ="84931.72631263733" />
+		<BookMark BookMarkName="4: Balenos River" PosX="-70475.25544166565" PosY="0.0" PosZ="3011.7247104644775" />
+		<BookMark BookMarkName="5: Balenos River" PosX="-88545.84403038025" PosY="0.0" PosZ="71378.78487110138" />
 	</WorldmapBookMark>

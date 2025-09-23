@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Serni%20Sea%20-%20Depth%202
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Serni Sea - Depth 2" PosX="-630964.6781682968" PosY="0" PosZ="-321355.3404569626" />
-		<BookMark BookMarkName="1: Serni Sea - Depth 2" PosX="-632470.5605506897" PosY="0" PosZ="-200282.39691257477" />
+		<BookMark BookMarkName="1: Serni Sea - Depth 2" PosX="-629157.6193094254" PosY="-8175.0" PosZ="-290032.9869031906" />
+		<BookMark BookMarkName="2: Serni Sea - Depth 2" PosX="-667708.2082986832" PosY="-8175.0" PosZ="-137637.68980503082" />
+		<BookMark BookMarkName="3: Serni Sea - Depth 2" PosX="-692705.855846405" PosY="-8175.0" PosZ="-200884.74986553192" />
+		<BookMark BookMarkName="4: Serni Sea - Depth 2" PosX="-680357.6203107834" PosY="-8175.0" PosZ="-151792.98419952393" />
+		<BookMark BookMarkName="5: Serni Sea - Depth 2" PosX="-637891.7371273041" PosY="-8175.0" PosZ="-312621.22263908386" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Epheria%20Sea%20Archipelago%20-%20Inland%20&%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Epheria Sea Archipelago - Inland & Coast" PosX="-279792.9065942764" PosY="0" PosZ="412310.55624485016" />
-		<BookMark BookMarkName="1: Epheria Sea Archipelago - Inland & Coast" PosX="-356894.08457279205" PosY="0" PosZ="304489.3776655197" />
-		<BookMark BookMarkName="2: Epheria Sea Archipelago - Inland & Coast" PosX="-243049.37646389008" PosY="0" PosZ="142456.43332004547" />
-		<BookMark BookMarkName="3: Epheria Sea Archipelago - Inland & Coast" PosX="-474051.7339229584" PosY="0" PosZ="-11143.569684028625" />
+		<BookMark BookMarkName="1: Epheria Sea Archipelago - Inland & Coast" PosX="-389119.96755599976" PosY="-8175.0" PosZ="365929.37886714935" />
+		<BookMark BookMarkName="2: Epheria Sea Archipelago - Inland & Coast" PosX="-342738.79017829895" PosY="-8175.0" PosZ="300875.2599477768" />
+		<BookMark BookMarkName="3: Epheria Sea Archipelago - Inland & Coast" PosX="-309609.3777656555" PosY="0.0" PosZ="110531.72681331635" />
+		<BookMark BookMarkName="4: Epheria Sea Archipelago - Inland & Coast" PosX="-563802.3239135742" PosY="-8175.0" PosZ="-142757.68990516663" />
+		<BookMark BookMarkName="5: Epheria Sea Archipelago - Inland & Coast" PosX="-445741.14513397217" PosY="-8175.0" PosZ="228894.08206939697" />
 	</WorldmapBookMark>

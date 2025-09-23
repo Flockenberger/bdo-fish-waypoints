@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Arsha%20Sea%20-%20Depth%201
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Arsha Sea - Depth 1" PosX="127397.68960475922" PosY="0" PosZ="275275.2594470978" />
-		<BookMark BookMarkName="1: Arsha Sea - Depth 1" PosX="245760.04486083984" PosY="0" PosZ="316837.61320114136" />
-		<BookMark BookMarkName="2: Arsha Sea - Depth 1" PosX="40960.040855407715" PosY="0" PosZ="389722.3205089569" />
-		<BookMark BookMarkName="3: Arsha Sea - Depth 1" PosX="54211.80582046509" PosY="0" PosZ="423152.9093980789" />
+		<BookMark BookMarkName="1: Arsha Sea - Depth 1" PosX="144865.92524051666" PosY="-8175.0" PosZ="372555.26134967804" />
+		<BookMark BookMarkName="2: Arsha Sea - Depth 1" PosX="272263.5747909546" PosY="-8175.0" PosZ="304790.5541419983" />
+		<BookMark BookMarkName="3: Arsha Sea - Depth 1" PosX="42465.9232378006" PosY="-8175.0" PosZ="361110.5552434921" />
+		<BookMark BookMarkName="4: Arsha Sea - Depth 1" PosX="56320.041155815125" PosY="-8175.0" PosZ="422249.3799686432" />
+		<BookMark BookMarkName="5: Arsha Sea - Depth 1" PosX="61440.04125595093" PosY="-8175.0" PosZ="326776.4369249344" />
 	</WorldmapBookMark>

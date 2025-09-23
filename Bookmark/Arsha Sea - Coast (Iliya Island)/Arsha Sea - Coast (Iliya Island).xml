@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Arsha%20Sea%20-%20Coast%20(Iliya%20Island)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Arsha Sea - Coast (Iliya Island)" PosX="109327.10101604462" PosY="0" PosZ="340329.37836647034" />
-		<BookMark BookMarkName="1: Arsha Sea - Coast (Iliya Island)" PosX="259011.80982589722" PosY="0" PosZ="274672.9064941406" />
-		<BookMark BookMarkName="2: Arsha Sea - Coast (Iliya Island)" PosX="51501.2175321579" PosY="0" PosZ="367435.26124954224" />
-		<BookMark BookMarkName="3: Arsha Sea - Coast (Iliya Island)" PosX="57524.74706172943" PosY="0" PosZ="418936.43872737885" />
+		<BookMark BookMarkName="1: Arsha Sea - Coast (Iliya Island)" PosX="118362.39531040192" PosY="-8175.0" PosZ="310211.7307186127" />
+		<BookMark BookMarkName="2: Arsha Sea - Coast (Iliya Island)" PosX="264432.9864025116" PosY="-8175.0" PosZ="309007.02481269836" />
+		<BookMark BookMarkName="3: Arsha Sea - Coast (Iliya Island)" PosX="32828.275990486145" PosY="-8175.0" PosZ="382192.9085969925" />
+		<BookMark BookMarkName="4: Arsha Sea - Coast (Iliya Island)" PosX="84630.62994480133" PosY="-8175.0" PosZ="397854.0853738785" />
+		<BookMark BookMarkName="5: Arsha Sea - Coast (Iliya Island)" PosX="79811.8063211441" PosY="-8175.0" PosZ="336112.90769577026" />
 	</WorldmapBookMark>

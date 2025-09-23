@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Marni%20Ponds
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Marni Ponds" PosX="-194559.96375083923" PosY="0" PosZ="-119567.10121631622" />
-		<BookMark BookMarkName="1: Marni Ponds" PosX="-156912.90419101715" PosY="0" PosZ="-87943.57118606567" />
-		<BookMark BookMarkName="2: Marni Ponds" PosX="-215943.49358081818" PosY="0" PosZ="-159623.57258796692" />
+		<BookMark BookMarkName="1: Marni Ponds" PosX="-197872.90499210358" PosY="0.0" PosZ="-121374.16007518768" />
+		<BookMark BookMarkName="2: Marni Ponds" PosX="-150588.19818496704" PosY="0.0" PosZ="-84028.27699184418" />
+		<BookMark BookMarkName="3: Marni Ponds" PosX="-206908.19928646088" PosY="0.0" PosZ="-158418.8666820526" />
+		<BookMark BookMarkName="4: Marni Ponds" PosX="-181308.19878578186" PosY="0.0" PosZ="-121976.51302814484" />
+		<BookMark BookMarkName="5: Marni Ponds" PosX="-219256.43482208252" PosY="0.0" PosZ="-155708.27839374542" />
 	</WorldmapBookMark>

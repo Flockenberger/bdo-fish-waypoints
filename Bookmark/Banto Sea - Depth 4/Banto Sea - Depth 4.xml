@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Banto%20Sea%20-%20Depth%204
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Banto Sea - Depth 4" PosX="-482183.49878787994" PosY="0" PosZ="206607.0228099823" />
-		<BookMark BookMarkName="1: Banto Sea - Depth 4" PosX="-196065.84613323212" PosY="0" PosZ="396348.2029914856" />
-		<BookMark BookMarkName="2: Banto Sea - Depth 4" PosX="-511999.96995925903" PosY="0" PosZ="217449.37596321106" />
-		<BookMark BookMarkName="3: Banto Sea - Depth 4" PosX="-418032.9092979431" PosY="0" PosZ="274070.5535411835" />
+		<BookMark BookMarkName="1: Banto Sea - Depth 4" PosX="-496639.9696588516" PosY="-8175.0" PosZ="204498.78747463226" />
+		<BookMark BookMarkName="2: Banto Sea - Depth 4" PosX="-483388.20469379425" PosY="-8175.0" PosZ="330992.90759563446" />
+		<BookMark BookMarkName="3: Banto Sea - Depth 4" PosX="-493025.8519411087" PosY="-8175.0" PosZ="318945.8485364914" />
+		<BookMark BookMarkName="4: Banto Sea - Depth 4" PosX="-516818.79358291626" PosY="-8175.0" PosZ="267745.84753513336" />
+		<BookMark BookMarkName="5: Banto Sea - Depth 4" PosX="-313524.671959877" PosY="-8175.0" PosZ="271359.9652528763" />
 	</WorldmapBookMark>

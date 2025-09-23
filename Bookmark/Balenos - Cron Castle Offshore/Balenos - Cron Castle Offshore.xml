@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Cron%20Castle%20Offshore
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Cron Castle Offshore" PosX="-8131.724810600281" PosY="0" PosZ="112338.7856721878" />
-		<BookMark BookMarkName="1: Balenos - Cron Castle Offshore" PosX="-25298.78396987915" PosY="0" PosZ="112639.96214866638" />
-		<BookMark BookMarkName="2: Balenos - Cron Castle Offshore" PosX="-15962.313199043274" PosY="0" PosZ="136131.72731399536" />
-		<BookMark BookMarkName="3: Balenos - Cron Castle Offshore" PosX="-33129.37235832214" PosY="0" PosZ="122578.78587245941" />
+		<BookMark BookMarkName="1: Balenos - Cron Castle Offshore" PosX="-16263.48967552185" PosY="-8175.0" PosZ="119868.19758415222" />
+		<BookMark BookMarkName="2: Balenos - Cron Castle Offshore" PosX="-15962.313199043274" PosY="-8175.0" PosZ="108724.66795444489" />
+		<BookMark BookMarkName="3: Balenos - Cron Castle Offshore" PosX="-27708.195781707764" PosY="-8175.0" PosZ="116254.0798664093" />
+		<BookMark BookMarkName="4: Balenos - Cron Castle Offshore" PosX="-21383.489775657654" PosY="-8175.0" PosZ="112338.7856721878" />
+		<BookMark BookMarkName="5: Balenos - Cron Castle Offshore" PosX="-23792.901587486267" PosY="-8175.0" PosZ="116856.43281936646" />
 	</WorldmapBookMark>

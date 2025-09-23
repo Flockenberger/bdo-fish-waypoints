@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Ahrmo%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Ahrmo Sea - Coast" PosX="-454776.43942832947" PosY="0" PosZ="228592.9055929184" />
-		<BookMark BookMarkName="1: Ahrmo Sea - Coast" PosX="-408997.6150035858" PosY="0" PosZ="209919.96405124664" />
-		<BookMark BookMarkName="2: Ahrmo Sea - Coast" PosX="-321054.08387184143" PosY="0" PosZ="121072.90349006653" />
-		<BookMark BookMarkName="3: Ahrmo Sea - Coast" PosX="-329788.20168972015" PosY="0" PosZ="183115.25764465332" />
+		<BookMark BookMarkName="1: Ahrmo Sea - Coast" PosX="-433694.0860748291" PosY="-8175.0" PosZ="186729.37536239624" />
+		<BookMark BookMarkName="2: Ahrmo Sea - Coast" PosX="-409599.96795654297" PosY="-8175.0" PosZ="204498.78747463226" />
+		<BookMark BookMarkName="3: Ahrmo Sea - Coast" PosX="-306296.4365243912" PosY="-8175.0" PosZ="131614.0801668167" />
+		<BookMark BookMarkName="4: Ahrmo Sea - Coast" PosX="-326776.4369249344" PosY="-8175.0" PosZ="180404.66935634613" />
+		<BookMark BookMarkName="5: Ahrmo Sea - Coast" PosX="-358399.96695518494" PosY="-8175.0" PosZ="176188.19868564606" />
 	</WorldmapBookMark>

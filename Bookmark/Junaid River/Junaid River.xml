@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Junaid%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Junaid River" PosX="573741.2277460098" PosY="0" PosZ="-283105.92794418335" />
-		<BookMark BookMarkName="1: Junaid River" PosX="359905.9294462204" PosY="0" PosZ="-375265.9297466278" />
-		<BookMark BookMarkName="2: Junaid River" PosX="436103.5779953003" PosY="0" PosZ="-252084.75086688995" />
-		<BookMark BookMarkName="3: Junaid River" PosX="253891.8097257614" PosY="0" PosZ="-131312.9837989807" />
+		<BookMark BookMarkName="1: Junaid River" PosX="240338.86828422546" PosY="0.0" PosZ="-214738.86778354645" />
+		<BookMark BookMarkName="2: Junaid River" PosX="252385.92734336853" PosY="0.0" PosZ="-130409.45436954498" />
+		<BookMark BookMarkName="3: Junaid River" PosX="252687.1038198471" PosY="0.0" PosZ="-131011.80732250214" />
+		<BookMark BookMarkName="4: Junaid River" PosX="243049.45657253265" PosY="0.0" PosZ="-132216.51322841644" />
+		<BookMark BookMarkName="5: Junaid River" PosX="253590.63324928284" PosY="0.0" PosZ="-130409.45436954498" />
 	</WorldmapBookMark>

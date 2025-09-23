@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Coast" PosX="-7830.548334121704" PosY="0" PosZ="103002.31490135193" />
-		<BookMark BookMarkName="1: Balenos - Coast" PosX="-60235.25524139404" PosY="0" PosZ="103002.31490135193" />
-		<BookMark BookMarkName="2: Balenos - Coast" PosX="-28611.725211143494" PosY="0" PosZ="97279.96184825897" />
-		<BookMark BookMarkName="3: Balenos - Coast" PosX="-252084.67075824738" PosY="0" PosZ="146974.08046722412" />
+		<BookMark BookMarkName="1: Balenos - Coast" PosX="118663.5717868805" PosY="-8175.0" PosZ="137035.2567434311" />
+		<BookMark BookMarkName="2: Balenos - Coast" PosX="-191849.37546253204" PosY="-8175.0" PosZ="182211.7282152176" />
+		<BookMark BookMarkName="3: Balenos - Coast" PosX="-32828.19588184357" PosY="-8175.0" PosZ="98183.4912776947" />
+		<BookMark BookMarkName="4: Balenos - Coast" PosX="-249976.43542289734" PosY="-8175.0" PosZ="163538.78667354584" />
+		<BookMark BookMarkName="5: Balenos - Coast" PosX="-29515.254640579224" PosY="-8175.0" PosZ="99990.55013656616" />
 	</WorldmapBookMark>

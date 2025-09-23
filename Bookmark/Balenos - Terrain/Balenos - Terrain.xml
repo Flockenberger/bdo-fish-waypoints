@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Balenos%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Balenos - Terrain" PosX="129807.10141658783" PosY="0" PosZ="83425.84393024445" />
-		<BookMark BookMarkName="1: Balenos - Terrain" PosX="-120169.3740606308" PosY="0" PosZ="146070.5510377884" />
-		<BookMark BookMarkName="2: Balenos - Terrain" PosX="185223.57308864594" PosY="0" PosZ="397552.9088973999" />
-		<BookMark BookMarkName="3: Balenos - Terrain" PosX="15058.863878250122" PosY="0" PosZ="92159.96174812317" />
+		<BookMark BookMarkName="1: Balenos - Terrain" PosX="-21985.842728614807" PosY="0.0" PosZ="83124.66745376587" />
+		<BookMark BookMarkName="2: Balenos - Terrain" PosX="-174381.1398267746" PosY="0.0" PosZ="82823.49097728729" />
+		<BookMark BookMarkName="3: Balenos - Terrain" PosX="184018.86718273163" PosY="-8175.0" PosZ="402070.55604457855" />
+		<BookMark BookMarkName="4: Balenos - Terrain" PosX="15058.863878250122" PosY="0.0" PosZ="92762.31470108032" />
+		<BookMark BookMarkName="5: Balenos - Terrain" PosX="12950.628542900085" PosY="-8175.0" PosZ="93063.4911775589" />
 	</WorldmapBookMark>

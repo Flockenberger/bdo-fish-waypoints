@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Kamasylvia%20-%20Grana%20(Event%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Kamasylvia - Grana (Event Spot)" PosX="-498145.8520412445" PosY="0" PosZ="-445138.8722896576" />
-		<BookMark BookMarkName="1: Kamasylvia - Grana (Event Spot)" PosX="-498447.0285177231" PosY="0" PosZ="-442729.460477829" />
-		<BookMark BookMarkName="2: Kamasylvia - Grana (Event Spot)" PosX="-495134.08727645874" PosY="0" PosZ="-448150.63705444336" />
-		<BookMark BookMarkName="3: Kamasylvia - Grana (Event Spot)" PosX="-500856.4403295517" PosY="0" PosZ="-448451.81353092194" />
+		<BookMark BookMarkName="1: Kamasylvia - Grana (Event Spot)" PosX="-495736.4402294159" PosY="0.0" PosZ="-447849.4605779648" />
+		<BookMark BookMarkName="2: Kamasylvia - Grana (Event Spot)" PosX="-495435.2637529373" PosY="0.0" PosZ="-447548.2841014862" />
+		<BookMark BookMarkName="3: Kamasylvia - Grana (Event Spot)" PosX="-498447.0285177231" PosY="0.0" PosZ="-445138.8722896576" />
+		<BookMark BookMarkName="4: Kamasylvia - Grana (Event Spot)" PosX="-499049.38147068024" PosY="0.0" PosZ="-444536.51933670044" />
+		<BookMark BookMarkName="5: Kamasylvia - Grana (Event Spot)" PosX="-498748.20499420166" PosY="0.0" PosZ="-443934.1663837433" />
 	</WorldmapBookMark>

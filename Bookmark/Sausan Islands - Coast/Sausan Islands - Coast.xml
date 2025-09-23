@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Sausan%20Islands%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Sausan Islands - Coast" PosX="214738.86778354645" PosY="0" PosZ="164442.31610298157" />
-		<BookMark BookMarkName="1: Sausan Islands - Coast" PosX="265637.6923084259" PosY="0" PosZ="182512.90469169617" />
-		<BookMark BookMarkName="2: Sausan Islands - Coast" PosX="97581.21843338013" PosY="0" PosZ="159322.31600284576" />
-		<BookMark BookMarkName="3: Sausan Islands - Coast" PosX="209016.5147304535" PosY="0" PosZ="198475.25794506073" />
+		<BookMark BookMarkName="1: Sausan Islands - Coast" PosX="164442.39621162415" PosY="-8175.0" PosZ="158719.9630498886" />
+		<BookMark BookMarkName="2: Sausan Islands - Coast" PosX="242748.28009605408" PosY="-8175.0" PosZ="181910.551738739" />
+		<BookMark BookMarkName="3: Sausan Islands - Coast" PosX="96376.51252746582" PosY="-8175.0" PosZ="163839.9631500244" />
+		<BookMark BookMarkName="4: Sausan Islands - Coast" PosX="197270.632147789" PosY="-8175.0" PosZ="200884.66975688934" />
+		<BookMark BookMarkName="5: Sausan Islands - Coast" PosX="126494.16017532349" PosY="-8175.0" PosZ="201487.0227098465" />
 	</WorldmapBookMark>

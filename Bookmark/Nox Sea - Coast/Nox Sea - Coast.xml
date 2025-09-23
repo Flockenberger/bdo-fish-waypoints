@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Nox%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Nox Sea - Coast" PosX="-106315.25614261627" PosY="0" PosZ="423152.9093980789" />
-		<BookMark BookMarkName="1: Nox Sea - Coast" PosX="-136131.72731399536" PosY="0" PosZ="299369.3775653839" />
-		<BookMark BookMarkName="2: Nox Sea - Coast" PosX="-47284.66675281525" PosY="0" PosZ="324367.0251131058" />
-		<BookMark BookMarkName="3: Nox Sea - Coast" PosX="-128903.49187850952" PosY="0" PosZ="431887.02721595764" />
+		<BookMark BookMarkName="1: Nox Sea - Coast" PosX="-99689.37366008759" PosY="-8175.0" PosZ="428875.2624511719" />
+		<BookMark BookMarkName="2: Nox Sea - Coast" PosX="-113844.66805458069" PosY="-8175.0" PosZ="307199.9659538269" />
+		<BookMark BookMarkName="3: Nox Sea - Coast" PosX="-49392.90208816528" PosY="-8175.0" PosZ="321355.26034832" />
+		<BookMark BookMarkName="4: Nox Sea - Coast" PosX="-114145.84453105927" PosY="-8175.0" PosZ="432188.2036924362" />
+		<BookMark BookMarkName="5: Nox Sea - Coast" PosX="-151792.90409088135" PosY="-8175.0" PosZ="317138.78967761993" />
 	</WorldmapBookMark>

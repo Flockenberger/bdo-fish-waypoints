@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/O'dyllita%20-%20Terrain
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: O'dyllita - Terrain" PosX="-236724.67045783997" PosY="0" PosZ="-481882.40242004395" />
-		<BookMark BookMarkName="1: O'dyllita - Terrain" PosX="-284611.73021793365" PosY="0" PosZ="-672828.2885074615" />
-		<BookMark BookMarkName="2: O'dyllita - Terrain" PosX="-374362.3202085495" PosY="0" PosZ="-590305.9339523315" />
-		<BookMark BookMarkName="3: O'dyllita - Terrain" PosX="-344244.67256069183" PosY="0" PosZ="-633976.5230417252" />
+		<BookMark BookMarkName="1: O'dyllita - Terrain" PosX="-245759.96475219727" PosY="0.0" PosZ="-528564.7562742233" />
+		<BookMark BookMarkName="2: O'dyllita - Terrain" PosX="-278287.02421188354" PosY="-8175.0" PosZ="-647228.2880067825" />
+		<BookMark BookMarkName="3: O'dyllita - Terrain" PosX="-380687.0262145996" PosY="-8175.0" PosZ="-591811.8163347244" />
+		<BookMark BookMarkName="4: O'dyllita - Terrain" PosX="-350870.5550432205" PosY="-8175.0" PosZ="-631265.934753418" />
+		<BookMark BookMarkName="5: O'dyllita - Terrain" PosX="-398757.6148033142" PosY="-8175.0" PosZ="-580668.2867050171" />
 	</WorldmapBookMark>

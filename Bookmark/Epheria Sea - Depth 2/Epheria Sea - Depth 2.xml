@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Epheria%20Sea%20-%20Depth%202
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Epheria Sea - Depth 2" PosX="-376470.55554389954" PosY="0" PosZ="99689.37366008759" />
-		<BookMark BookMarkName="1: Epheria Sea - Depth 2" PosX="-374663.4966850281" PosY="0" PosZ="53007.0198059082" />
+		<BookMark BookMarkName="1: Epheria Sea - Depth 2" PosX="-394239.96765613556" PosY="-8175.0" PosZ="123783.49177837372" />
+		<BookMark BookMarkName="2: Epheria Sea - Depth 2" PosX="-373759.96725559235" PosY="-8175.0" PosZ="57223.49047660828" />
+		<BookMark BookMarkName="3: Epheria Sea - Depth 2" PosX="-374362.3202085495" PosY="-8175.0" PosZ="97279.96184825897" />
+		<BookMark BookMarkName="4: Epheria Sea - Depth 2" PosX="-377072.9084968567" PosY="-8175.0" PosZ="55115.25514125824" />
+		<BookMark BookMarkName="5: Epheria Sea - Depth 2" PosX="-399058.7912797928" PosY="-8175.0" PosZ="109929.37386035919" />
 	</WorldmapBookMark>

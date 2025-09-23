@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Ibellab%20Oasis
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Ibellab Oasis" PosX="735472.9956150055" PosY="0" PosZ="202390.55213928223" />
-		<BookMark BookMarkName="1: Ibellab Oasis" PosX="736677.7015209198" PosY="0" PosZ="201185.84623336792" />
-		<BookMark BookMarkName="2: Ibellab Oasis" PosX="729750.6425619125" PosY="0" PosZ="202992.90509223938" />
-		<BookMark BookMarkName="3: Ibellab Oasis" PosX="730955.3484678268" PosY="0" PosZ="208112.90519237518" />
+		<BookMark BookMarkName="1: Ibellab Oasis" PosX="732461.2308502197" PosY="0.0" PosZ="207209.37576293945" />
+		<BookMark BookMarkName="2: Ibellab Oasis" PosX="737280.054473877" PosY="0.0" PosZ="199981.1403274536" />
+		<BookMark BookMarkName="3: Ibellab Oasis" PosX="732461.2308502197" PosY="0.0" PosZ="201487.0227098465" />
+		<BookMark BookMarkName="4: Ibellab Oasis" PosX="731557.701420784" PosY="0.0" PosZ="204799.96395111084" />
+		<BookMark BookMarkName="5: Ibellab Oasis" PosX="736075.3485679626" PosY="0.0" PosZ="200282.3168039322" />
 	</WorldmapBookMark>

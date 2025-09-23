@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Drieghan%20-%20Duvencrune%20(Event%20Spot)
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Drieghan - Duvencrune (Event Spot)" PosX="-52103.49037647247" PosY="0" PosZ="-396950.6360530853" />
-		<BookMark BookMarkName="1: Drieghan - Duvencrune (Event Spot)" PosX="-52103.49037647247" PosY="0" PosZ="-395143.57719421387" />
-		<BookMark BookMarkName="2: Drieghan - Duvencrune (Event Spot)" PosX="-53007.0198059082" PosY="0" PosZ="-394842.4007177353" />
-		<BookMark BookMarkName="3: Drieghan - Duvencrune (Event Spot)" PosX="-52103.49037647247" PosY="0" PosZ="-394541.2242412567" />
+		<BookMark BookMarkName="1: Drieghan - Duvencrune (Event Spot)" PosX="-52404.66685295105" PosY="0.0" PosZ="-393938.87128829956" />
+		<BookMark BookMarkName="2: Drieghan - Duvencrune (Event Spot)" PosX="-52103.49037647247" PosY="0.0" PosZ="-394842.4007177353" />
+		<BookMark BookMarkName="3: Drieghan - Duvencrune (Event Spot)" PosX="-51802.3138999939" PosY="0.0" PosZ="-396047.1066236496" />
+		<BookMark BookMarkName="4: Drieghan - Duvencrune (Event Spot)" PosX="-51501.13742351532" PosY="0.0" PosZ="-394240.04776477814" />
+		<BookMark BookMarkName="5: Drieghan - Duvencrune (Event Spot)" PosX="-51501.13742351532" PosY="0.0" PosZ="-395143.57719421387" />
 	</WorldmapBookMark>

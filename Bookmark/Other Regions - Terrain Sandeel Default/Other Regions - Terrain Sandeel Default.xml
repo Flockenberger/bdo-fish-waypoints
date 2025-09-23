@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Other%20Regions%20-%20Terrain%20Sandeel%20Default
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Other Regions - Terrain Sandeel Default" PosX="607472.9931116104" PosY="0" PosZ="-877327.1160364151" />
-		<BookMark BookMarkName="1: Other Regions - Terrain Sandeel Default" PosX="688790.6417608261" PosY="0" PosZ="692404.6793699265" />
-		<BookMark BookMarkName="2: Other Regions - Terrain Sandeel Default" PosX="400865.9302473068" PosY="0" PosZ="-181308.27889442444" />
-		<BookMark BookMarkName="3: Other Regions - Terrain Sandeel Default" PosX="316837.69330978394" PosY="0" PosZ="-186729.45547103882" />
+		<BookMark BookMarkName="1: Other Regions - Terrain Sandeel Default" PosX="767698.8785982132" PosY="-8175.0" PosZ="408094.0855741501" />
+		<BookMark BookMarkName="2: Other Regions - Terrain Sandeel Default" PosX="321656.51693344116" PosY="0.0" PosZ="-149082.39591121674" />
+		<BookMark BookMarkName="3: Other Regions - Terrain Sandeel Default" PosX="318343.5756921768" PosY="0.0" PosZ="-187030.6319475174" />
+		<BookMark BookMarkName="4: Other Regions - Terrain Sandeel Default" PosX="271360.04536151886" PosY="0.0" PosZ="-272263.5747909546" />
+		<BookMark BookMarkName="5: Other Regions - Terrain Sandeel Default" PosX="460800.0490665436" PosY="0.0" PosZ="-544527.1095275879" />
 	</WorldmapBookMark>

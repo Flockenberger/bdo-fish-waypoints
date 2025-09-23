@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Mountain%20of%20Eternal%20Winter%20-%20Jade%20River
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Mountain of Eternal Winter - Jade River" PosX="101195.33615112305" PosY="0" PosZ="-454776.51953697205" />
-		<BookMark BookMarkName="1: Mountain of Eternal Winter - Jade River" PosX="99388.27729225159" PosY="0" PosZ="-445138.8722896576" />
-		<BookMark BookMarkName="2: Mountain of Eternal Winter - Jade River" PosX="128000.04255771637" PosY="0" PosZ="-460498.872590065" />
-		<BookMark BookMarkName="3: Mountain of Eternal Winter - Jade River" PosX="133421.21913433075" PosY="0" PosZ="-459595.3431606293" />
+		<BookMark BookMarkName="1: Mountain of Eternal Winter - Jade River" PosX="115049.45406913757" PosY="0.0" PosZ="-460498.872590065" />
+		<BookMark BookMarkName="2: Mountain of Eternal Winter - Jade River" PosX="98484.74786281586" PosY="0.0" PosZ="-451764.7547721863" />
+		<BookMark BookMarkName="3: Mountain of Eternal Winter - Jade River" PosX="121072.9835987091" PosY="0.0" PosZ="-459595.3431606293" />
+		<BookMark BookMarkName="4: Mountain of Eternal Winter - Jade River" PosX="134625.92504024506" PosY="0.0" PosZ="-461402.40201950073" />
+		<BookMark BookMarkName="5: Mountain of Eternal Winter - Jade River" PosX="96376.51252746582" PosY="0.0" PosZ="-457487.10782527924" />
 	</WorldmapBookMark>

@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Valencia%20Sea%20-%20Depth%203
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Valencia Sea - Depth 3" PosX="1115557.7089309692" PosY="0" PosZ="-302983.5753917694" />
-		<BookMark BookMarkName="1: Valencia Sea - Depth 3" PosX="385505.9299468994" PosY="0" PosZ="212329.37586307526" />
-		<BookMark BookMarkName="2: Valencia Sea - Depth 3" PosX="1274277.7120351791" PosY="0" PosZ="-310814.1637802124" />
-		<BookMark BookMarkName="3: Valencia Sea - Depth 3" PosX="1283614.182806015" PosY="0" PosZ="-309308.2813978195" />
+		<BookMark BookMarkName="1: Valencia Sea - Depth 3" PosX="1397760.0673913956" PosY="-8175.0" PosZ="284310.5537414551" />
+		<BookMark BookMarkName="2: Valencia Sea - Depth 3" PosX="393637.694811821" PosY="-8175.0" PosZ="313223.49548339844" />
+		<BookMark BookMarkName="3: Valencia Sea - Depth 3" PosX="410202.4010181427" PosY="-8175.0" PosZ="236122.3175048828" />
+		<BookMark BookMarkName="4: Valencia Sea - Depth 3" PosX="377374.16508197784" PosY="-8175.0" PosZ="270757.6122999191" />
+		<BookMark BookMarkName="5: Valencia Sea - Depth 3" PosX="377976.518034935" PosY="-8175.0" PosZ="263830.55334091187" />
 	</WorldmapBookMark>

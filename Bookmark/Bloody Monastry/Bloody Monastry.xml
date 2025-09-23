@@ -4,8 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Bloody%20Monastry
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Bloody Monastry" PosX="-16263.48967552185" PosY="0" PosZ="-168056.51392936707" />
-		<BookMark BookMarkName="1: Bloody Monastry" PosX="-21383.489775657654" PosY="0" PosZ="-160828.27849388123" />
-		<BookMark BookMarkName="2: Bloody Monastry" PosX="-13552.90138721466" PosY="0" PosZ="-164141.21973514557" />
-		<BookMark BookMarkName="3: Bloody Monastry" PosX="-18371.725010871887" PosY="0" PosZ="-165044.7491645813" />
+		<BookMark BookMarkName="1: Bloody Monastry" PosX="-17167.01910495758" PosY="0.0" PosZ="-160225.92554092407" />
+		<BookMark BookMarkName="2: Bloody Monastry" PosX="-15962.313199043274" PosY="0.0" PosZ="-162032.98439979553" />
+		<BookMark BookMarkName="3: Bloody Monastry" PosX="-11444.666051864624" PosY="0.0" PosZ="-162936.51382923126" />
+		<BookMark BookMarkName="4: Bloody Monastry" PosX="-11143.489575386047" PosY="0.0" PosZ="-163538.86678218842" />
+		<BookMark BookMarkName="5: Bloody Monastry" PosX="-12649.37195777893" PosY="0.0" PosZ="-164743.57268810272" />
 	</WorldmapBookMark>

@@ -4,6 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Margoria%20North
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Margoria North" PosX="-387614.0851736069" PosY="0" PosZ="1535698.813509941" />
-		<BookMark BookMarkName="1: Margoria North" PosX="-1532988.225221634" PosY="0" PosZ="673430.5613517761" />
+		<BookMark BookMarkName="1: Margoria North" PosX="-727943.5035943985" PosY="-8175.0" PosZ="1225788.2192134857" />
+		<BookMark BookMarkName="2: Margoria North" PosX="994484.7653865814" PosY="-8175.0" PosZ="548141.1471366882" />
+		<BookMark BookMarkName="3: Margoria North" PosX="-806249.3874788284" PosY="-8175.0" PosZ="1239943.5136079788" />
+		<BookMark BookMarkName="4: Margoria North" PosX="-819501.1524438858" PosY="-8175.0" PosZ="1012856.450343132" />
+		<BookMark BookMarkName="5: Margoria North" PosX="-1025807.0388317108" PosY="-8175.0" PosZ="952922.3315238953" />
 	</WorldmapBookMark>

@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Mediah%20Sea%20-%20Coast
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Mediah Sea - Coast" PosX="303585.92834472656" PosY="0" PosZ="21383.489775657654" />
-		<BookMark BookMarkName="1: Mediah Sea - Coast" PosX="346654.164481163" PosY="0" PosZ="44875.25494098663" />
-		<BookMark BookMarkName="2: Mediah Sea - Coast" PosX="298465.92824459076" PosY="0" PosZ="74390.54963588715" />
+		<BookMark BookMarkName="1: Mediah Sea - Coast" PosX="283708.2808971405" PosY="0.0" PosZ="85534.07926559448" />
+		<BookMark BookMarkName="2: Mediah Sea - Coast" PosX="370447.1061229706" PosY="0.0" PosZ="-301.2165307998657" />
+		<BookMark BookMarkName="3: Mediah Sea - Coast" PosX="316536.51683330536" PosY="0.0" PosZ="-31924.746561050415" />
+		<BookMark BookMarkName="4: Mediah Sea - Coast" PosX="274974.1630792618" PosY="0.0" PosZ="28912.90168762207" />
+		<BookMark BookMarkName="5: Mediah Sea - Coast" PosX="339425.9290456772" PosY="0.0" PosZ="86136.43221855164" />
 	</WorldmapBookMark>

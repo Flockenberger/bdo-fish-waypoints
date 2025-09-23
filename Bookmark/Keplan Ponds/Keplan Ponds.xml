@@ -4,7 +4,9 @@
 		Preview at: https://github.com/Flockenberger/bdo-fish-waypoints/tree/main/Bookmark/Keplan%20Ponds
 	-->
 	<WorldmapBookMark>
-		<BookMark BookMarkName="0: Keplan Ponds" PosX="-152094.08056735992" PosY="0" PosZ="-142155.33695220947" />
-		<BookMark BookMarkName="1: Keplan Ponds" PosX="-137938.78617286682" PosY="0" PosZ="-140348.278093338" />
-		<BookMark BookMarkName="2: Keplan Ponds" PosX="-162936.43372058868" PosY="0" PosZ="-170767.10221767426" />
+		<BookMark BookMarkName="1: Keplan Ponds" PosX="-159623.49247932434" PosY="0.0" PosZ="-150287.10181713104" />
+		<BookMark BookMarkName="2: Keplan Ponds" PosX="-137938.78617286682" PosY="0.0" PosZ="-141552.98399925232" />
+		<BookMark BookMarkName="3: Keplan Ponds" PosX="-164743.49257946014" PosY="0.0" PosZ="-171369.4551706314" />
+		<BookMark BookMarkName="4: Keplan Ponds" PosX="-161731.72781467438" PosY="0.0" PosZ="-149383.5723876953" />
+		<BookMark BookMarkName="5: Keplan Ponds" PosX="-158418.78657341003" PosY="0.0" PosZ="-149985.92534065247" />
 	</WorldmapBookMark>
