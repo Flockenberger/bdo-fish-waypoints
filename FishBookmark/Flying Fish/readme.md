@@ -1,27 +1,26 @@
 # Flying Fish
-Created by **flockenberger**
-
-## ⚠️ Disclaimer:
-Waypoints are generated based on your __**character’s position**__ — __not__ where your fishing float lands.
-In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
-This only happens in rare cases — when the position is right on the **edge of a zone** and you cast to the “wrong” side.
-
-- To verify that your float you can use the guide [HERE](https://flockenberger.github.io/bdo-fish-position/)
-- Or watch the guide [HERE](https://youtu.be/t-VXcRoNojk)
-
-## Waypoints
 ```xml
 <!--
     Waypoints for: Flying Fish
     Created by: flockenberger
 -->
 <WorldmapBookMark>
-    <BookMark BookMarkName="0: Flying Fish" PosX="-421556.5" PosY="-7936.9956" PosZ="183969.67" />
-    <BookMark BookMarkName="1: Flying Fish" PosX="-441314.0" PosY="-7898.0" PosZ="108989.0" />
-    <BookMark BookMarkName="2: Flying Fish" PosX="-419520.0" PosY="-7847.0" PosZ="106361.0" />
-    <BookMark BookMarkName="3: Flying Fish" PosX="-461198.0" PosY="-7925.0" PosZ="217699.0" />
-    <BookMark BookMarkName="4: Flying Fish" PosX="-438145.0" PosY="-7899.0" PosZ="121383.0" />
+    <BookMark BookMarkName="0: Flying Fish" PosX="-363051.03" PosY="-8059.7" PosZ="-662416.44" />
+    <BookMark BookMarkName="1: Flying Fish" PosX="-375596.0" PosY="-7606.0" PosZ="-662283.0" />
+    <BookMark BookMarkName="2: Flying Fish" PosX="-529867.0" PosY="-7659.0" PosZ="-598326.0" />
+    <BookMark BookMarkName="3: Flying Fish" PosX="-530171.1" PosY="-7655.3438" PosZ="-598467.94" />
+    <BookMark BookMarkName="4: Flying Fish" PosX="-410540.0" PosY="-7906.0" PosZ="117675.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Flying Fish_0_Preview.webp" width="450"/> <img src="./Flying Fish_1_Preview.webp" width="450"/> <img src="./Flying Fish_2_Preview.webp" width="450"/> <img src="./Flying Fish_3_Preview.webp" width="450"/> <img src="./Flying Fish_4_Preview.webp" width="450"/> 
+## ⚠️ Disclaimer
+Waypoints are generated based on the __**character’s position**__ — __not__ where the fishing float landed.
+Fish are determined by where your **float** lands!
+In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
+Please pay attention to the preview images showing where each location is in relation to the outlined zones.
+
+- You can verify your float’s position using the guide [**HERE**](https://flockenberger.github.io/bdo-fish-position/)
+- Or watch the video guide [**HERE**](https://youtu.be/t-VXcRoNojk)
+
+## Previews
+<img src="./Flying Fish_0_Preview.webp" width="450"/> <img src="./Flying Fish_1_Preview.webp" width="450"/> <img src="./Flying Fish_2_Preview.webp" width="450"/> <img src="./Flying Fish_3_Preview.webp" width="450"/> <img src="./Flying Fish_4_Preview.webp" width="450"/> <img src="./Flying Fish_Preview.webp" width="450"/> 

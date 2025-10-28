@@ -1,27 +1,26 @@
 # Sea Angel
-Created by **flockenberger**
-
-## ⚠️ Disclaimer:
-Waypoints are generated based on your __**character’s position**__ — __not__ where your fishing float lands.
-In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
-This only happens in rare cases — when the position is right on the **edge of a zone** and you cast to the “wrong” side.
-
-- To verify that your float you can use the guide [HERE](https://flockenberger.github.io/bdo-fish-position/)
-- Or watch the guide [HERE](https://youtu.be/t-VXcRoNojk)
-
-## Waypoints
 ```xml
 <!--
     Waypoints for: Sea Angel
     Created by: flockenberger
 -->
 <WorldmapBookMark>
-    <BookMark BookMarkName="0: Sea Angel" PosX="-289098.0" PosY="-7903.0" PosZ="232278.0" />
-    <BookMark BookMarkName="1: Sea Angel" PosX="-328321.0" PosY="-7675.0" PosZ="240421.0" />
-    <BookMark BookMarkName="2: Sea Angel" PosX="-542379.0" PosY="-7885.0" PosZ="105492.0" />
-    <BookMark BookMarkName="3: Sea Angel" PosX="-294333.97" PosY="-7647.2153" PosZ="212625.73" />
-    <BookMark BookMarkName="4: Sea Angel" PosX="-549855.0" PosY="-7514.0" PosZ="143832.0" />
+    <BookMark BookMarkName="0: Sea Angel" PosX="-517876.0" PosY="-7892.0" PosZ="195011.0" />
+    <BookMark BookMarkName="1: Sea Angel" PosX="-479100.38" PosY="-7748.687" PosZ="196556.92" />
+    <BookMark BookMarkName="2: Sea Angel" PosX="-282004.0" PosY="-7597.0" PosZ="276561.0" />
+    <BookMark BookMarkName="3: Sea Angel" PosX="-281359.53" PosY="-7758.454" PosZ="278482.75" />
+    <BookMark BookMarkName="4: Sea Angel" PosX="-321457.0" PosY="-7912.0" PosZ="217283.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Sea Angel_0_Preview.webp" width="450"/> <img src="./Sea Angel_1_Preview.webp" width="450"/> <img src="./Sea Angel_2_Preview.webp" width="450"/> <img src="./Sea Angel_3_Preview.webp" width="450"/> <img src="./Sea Angel_4_Preview.webp" width="450"/> 
+## ⚠️ Disclaimer
+Waypoints are generated based on the __**character’s position**__ — __not__ where the fishing float landed.
+Fish are determined by where your **float** lands!
+In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
+Please pay attention to the preview images showing where each location is in relation to the outlined zones.
+
+- You can verify your float’s position using the guide [**HERE**](https://flockenberger.github.io/bdo-fish-position/)
+- Or watch the video guide [**HERE**](https://youtu.be/t-VXcRoNojk)
+
+## Previews
+<img src="./Sea Angel_0_Preview.webp" width="450"/> <img src="./Sea Angel_1_Preview.webp" width="450"/> <img src="./Sea Angel_2_Preview.webp" width="450"/> <img src="./Sea Angel_3_Preview.webp" width="450"/> <img src="./Sea Angel_4_Preview.webp" width="450"/> <img src="./Sea Angel_Preview.webp" width="450"/> 

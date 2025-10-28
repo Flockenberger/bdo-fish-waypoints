@@ -1,27 +1,26 @@
 # Amur Minnow
-Created by **flockenberger**
-
-## ⚠️ Disclaimer:
-Waypoints are generated based on your __**character’s position**__ — __not__ where your fishing float lands.
-In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
-This only happens in rare cases — when the position is right on the **edge of a zone** and you cast to the “wrong” side.
-
-- To verify that your float you can use the guide [HERE](https://flockenberger.github.io/bdo-fish-position/)
-- Or watch the guide [HERE](https://youtu.be/t-VXcRoNojk)
-
-## Waypoints
 ```xml
 <!--
     Waypoints for: Amur Minnow
     Created by: flockenberger
 -->
 <WorldmapBookMark>
-    <BookMark BookMarkName="0: Amur Minnow" PosX="-284117.0" PosY="16187.0" PosZ="-363870.0" />
-    <BookMark BookMarkName="1: Amur Minnow" PosX="-529236.0" PosY="10860.0" PosZ="-320682.0" />
-    <BookMark BookMarkName="2: Amur Minnow" PosX="-532508.0" PosY="10419.0" PosZ="-324510.0" />
-    <BookMark BookMarkName="3: Amur Minnow" PosX="-44124.0" PosY="7046.0" PosZ="-462239.0" />
-    <BookMark BookMarkName="4: Amur Minnow" PosX="94870.0" PosY="17255.0" PosZ="-370274.0" />
+    <BookMark BookMarkName="0: Amur Minnow" PosX="-353422.0" PosY="465.0" PosZ="-455139.0" />
+    <BookMark BookMarkName="1: Amur Minnow" PosX="-353426.0" PosY="469.0" PosZ="-455162.0" />
+    <BookMark BookMarkName="2: Amur Minnow" PosX="-529698.0" PosY="10753.0" PosZ="-319415.0" />
+    <BookMark BookMarkName="3: Amur Minnow" PosX="-353456.0" PosY="472.0" PosZ="-455189.0" />
+    <BookMark BookMarkName="4: Amur Minnow" PosX="-88298.0" PosY="8189.0" PosZ="-415803.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Amur Minnow_0_Preview.webp" width="450"/> <img src="./Amur Minnow_1_Preview.webp" width="450"/> <img src="./Amur Minnow_2_Preview.webp" width="450"/> <img src="./Amur Minnow_3_Preview.webp" width="450"/> <img src="./Amur Minnow_4_Preview.webp" width="450"/> 
+## ⚠️ Disclaimer
+Waypoints are generated based on the __**character’s position**__ — __not__ where the fishing float landed.
+Fish are determined by where your **float** lands!
+In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
+Please pay attention to the preview images showing where each location is in relation to the outlined zones.
+
+- You can verify your float’s position using the guide [**HERE**](https://flockenberger.github.io/bdo-fish-position/)
+- Or watch the video guide [**HERE**](https://youtu.be/t-VXcRoNojk)
+
+## Previews
+<img src="./Amur Minnow_0_Preview.webp" width="450"/> <img src="./Amur Minnow_1_Preview.webp" width="450"/> <img src="./Amur Minnow_2_Preview.webp" width="450"/> <img src="./Amur Minnow_3_Preview.webp" width="450"/> <img src="./Amur Minnow_4_Preview.webp" width="450"/> <img src="./Amur Minnow_Preview.webp" width="450"/> 

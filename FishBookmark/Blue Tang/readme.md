@@ -1,27 +1,26 @@
 # Blue Tang
-Created by **flockenberger**
-
-## ⚠️ Disclaimer:
-Waypoints are generated based on your __**character’s position**__ — __not__ where your fishing float lands.
-In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
-This only happens in rare cases — when the position is right on the **edge of a zone** and you cast to the “wrong” side.
-
-- To verify that your float you can use the guide [HERE](https://flockenberger.github.io/bdo-fish-position/)
-- Or watch the guide [HERE](https://youtu.be/t-VXcRoNojk)
-
-## Waypoints
 ```xml
 <!--
     Waypoints for: Blue Tang
     Created by: flockenberger
 -->
 <WorldmapBookMark>
-    <BookMark BookMarkName="0: Blue Tang" PosX="399826.0" PosY="-7656.0" PosZ="-69131.0" />
-    <BookMark BookMarkName="1: Blue Tang" PosX="369874.0" PosY="-8228.0" PosZ="-23906.0" />
-    <BookMark BookMarkName="2: Blue Tang" PosX="330198.0" PosY="-7585.0" PosZ="33302.0" />
-    <BookMark BookMarkName="3: Blue Tang" PosX="332699.34" PosY="-7871.212" PosZ="28014.408" />
-    <BookMark BookMarkName="4: Blue Tang" PosX="171123.0" PosY="-7563.0" PosZ="208782.0" />
+    <BookMark BookMarkName="0: Blue Tang" PosX="369960.0" PosY="-8238.0" PosZ="-23892.0" />
+    <BookMark BookMarkName="1: Blue Tang" PosX="369945.03" PosY="-8236.044" PosZ="-23901.46" />
+    <BookMark BookMarkName="2: Blue Tang" PosX="170402.0" PosY="-7485.0" PosZ="216778.0" />
+    <BookMark BookMarkName="3: Blue Tang" PosX="370002.0" PosY="-8251.0" PosZ="-23930.0" />
+    <BookMark BookMarkName="4: Blue Tang" PosX="370092.0" PosY="-8256.0" PosZ="-23985.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Blue Tang_0_Preview.webp" width="450"/> <img src="./Blue Tang_1_Preview.webp" width="450"/> <img src="./Blue Tang_2_Preview.webp" width="450"/> <img src="./Blue Tang_3_Preview.webp" width="450"/> <img src="./Blue Tang_4_Preview.webp" width="450"/> 
+## ⚠️ Disclaimer
+Waypoints are generated based on the __**character’s position**__ — __not__ where the fishing float landed.
+Fish are determined by where your **float** lands!
+In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
+Please pay attention to the preview images showing where each location is in relation to the outlined zones.
+
+- You can verify your float’s position using the guide [**HERE**](https://flockenberger.github.io/bdo-fish-position/)
+- Or watch the video guide [**HERE**](https://youtu.be/t-VXcRoNojk)
+
+## Previews
+<img src="./Blue Tang_0_Preview.webp" width="450"/> <img src="./Blue Tang_1_Preview.webp" width="450"/> <img src="./Blue Tang_2_Preview.webp" width="450"/> <img src="./Blue Tang_3_Preview.webp" width="450"/> <img src="./Blue Tang_4_Preview.webp" width="450"/> <img src="./Blue Tang_Preview.webp" width="450"/> 

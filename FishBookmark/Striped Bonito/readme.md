@@ -1,27 +1,26 @@
 # Striped Bonito
-Created by **flockenberger**
-
-## ⚠️ Disclaimer:
-Waypoints are generated based on your __**character’s position**__ — __not__ where your fishing float lands.
-In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
-This only happens in rare cases — when the position is right on the **edge of a zone** and you cast to the “wrong” side.
-
-- To verify that your float you can use the guide [HERE](https://flockenberger.github.io/bdo-fish-position/)
-- Or watch the guide [HERE](https://youtu.be/t-VXcRoNojk)
-
-## Waypoints
 ```xml
 <!--
     Waypoints for: Striped Bonito
     Created by: flockenberger
 -->
 <WorldmapBookMark>
-    <BookMark BookMarkName="0: Striped Bonito" PosX="-106689.0" PosY="-7635.0" PosZ="631049.0" />
-    <BookMark BookMarkName="1: Striped Bonito" PosX="-659570.0" PosY="-8051.0" PosZ="799730.0" />
-    <BookMark BookMarkName="2: Striped Bonito" PosX="-714374.0" PosY="-7640.0" PosZ="331377.0" />
-    <BookMark BookMarkName="3: Striped Bonito" PosX="-1195281.0" PosY="-7589.0" PosZ="97605.0" />
-    <BookMark BookMarkName="4: Striped Bonito" PosX="-364153.1" PosY="-7779.0405" PosZ="1251866.5" />
+    <BookMark BookMarkName="0: Striped Bonito" PosX="-106053.0" PosY="-8122.0" PosZ="632053.0" />
+    <BookMark BookMarkName="1: Striped Bonito" PosX="-105888.16" PosY="-7941.4077" PosZ="632504.94" />
+    <BookMark BookMarkName="2: Striped Bonito" PosX="-85955.0" PosY="-8221.0" PosZ="636676.0" />
+    <BookMark BookMarkName="3: Striped Bonito" PosX="-105813.98" PosY="-7922.4883" PosZ="632659.5" />
+    <BookMark BookMarkName="4: Striped Bonito" PosX="-106756.25" PosY="-7959.41" PosZ="626201.44" />
 </WorldmapBookMark>
 ```
 
-<img src="./Striped Bonito_0_Preview.webp" width="450"/> <img src="./Striped Bonito_1_Preview.webp" width="450"/> <img src="./Striped Bonito_2_Preview.webp" width="450"/> <img src="./Striped Bonito_3_Preview.webp" width="450"/> <img src="./Striped Bonito_4_Preview.webp" width="450"/> 
+## ⚠️ Disclaimer
+Waypoints are generated based on the __**character’s position**__ — __not__ where the fishing float landed.
+Fish are determined by where your **float** lands!
+In ocean spots especially, the direction you cast your rod can place your float in a **different fishing zone**, which may result in catching the wrong type of fish.
+Please pay attention to the preview images showing where each location is in relation to the outlined zones.
+
+- You can verify your float’s position using the guide [**HERE**](https://flockenberger.github.io/bdo-fish-position/)
+- Or watch the video guide [**HERE**](https://youtu.be/t-VXcRoNojk)
+
+## Previews
+<img src="./Striped Bonito_0_Preview.webp" width="450"/> <img src="./Striped Bonito_1_Preview.webp" width="450"/> <img src="./Striped Bonito_2_Preview.webp" width="450"/> <img src="./Striped Bonito_3_Preview.webp" width="450"/> <img src="./Striped Bonito_4_Preview.webp" width="450"/> <img src="./Striped Bonito_Preview.webp" width="450"/> 
